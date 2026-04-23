@@ -1,0 +1,1 @@
+"python3.12 -c \"\nimport json\ndb = json.loads(open('/Users/vishnu/Desktop/cognitive/quiz-app/questions_2026.js').read().split('const QUESTIONS_DB = ')[1].rsplit(';', 1)[0])\nprint('Total 2022 questions:', len(db['2022']))\n\""

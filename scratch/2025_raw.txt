@@ -1,0 +1,383 @@
+### [cite_start]**Week 1** [cite: 35090]
+* **Question 1:** The school of psychology known as functionalism, which emphasized the purposes of the mind’s operations, was founded by:
+    * **Options:** Wilhelm Wundt, John Watson, William James, Edward Titchener
+    * **Accepted Answer:** William James
+* **Question 2:** The fact that you know you have seen the face before but cannot remember the name of the person, illustrates the cognitive process of:
+    * **Options:** perception, attention, recognition, recall
+    * **Accepted Answer:** recognition
+* **Question 3:** The term _______ refers to the relevance of the research to the “real world.”
+    * **Options:** Internal validity, Evolutionary validity, Ecological validity, Neural validity
+    * **Accepted Answer:** Ecological validity
+* **Question 4:** ________ challenged the assumption that mental events were beyond the realm of scientific study.
+    * **Options:** Cognitive revolution, Behaviorist rebellion, Human factor movements, Universal grammar
+    * **Accepted Answer:** Cognitive revolution
+* **Question 5:** Since the 1970s, various techniques of ________ have allowed us to construct pictures of the anatomy and functioning of intact brains.
+    * **Options:** Genetic engineering, Brain Imaging, Neurosurgery, Brain lesioning
+    * **Accepted Answer:** Brain Imaging
+* **Question 6:** Historians date the founding of scientific psychology to the 1879 laboratory of:
+    * **Options:** William James, Wilhelm Wundt, John Locke, Edward Titchener
+    * **Accepted Answer:** Wilhelm Wundt
+* **Question 7:** The term “limited capacity processors” suggests that:
+    * **Options:** Humans have limited memory storage, Human beings can only do so many things at once, Neurons can only fire at a certain rate, Processing in the brain occurs in parallel
+    * **Accepted Answer:** Human beings can only do so many things at once
+* **Question 8:** This psychologist sought to describe the intellectual structures underlying cognitive experience at different developmental points through an approach he called genetic epistemology:
+    * **Options:** Galton, Skinner, Wundt, Piaget
+    * **Accepted Answer:** Piaget
+* **Question 9:** Clinical interviews are to introspection as ______ are to ________.
+    * **Options:** Naturalistic observations; experiments, Naturalistic observations; quasi experiments, Controlled observations; naturalistic observations, Controlled observations; experiments
+    * **Accepted Answer:** Controlled observations; naturalistic observations
+* **Question 10:** Which of the following is a basic assumption of the connectionist approach?
+    * **Options:** Serial processing, Multiple stores where information is kept throughout processing, Networks of connections among simple processing units, A central processor that directs the flow of information
+    * **Accepted Answer:** Networks of connections among simple processing units
+
+### [cite_start]**Week 2** [cite: 35091]
+* **Question 1:** A toy on the table represents
+    * **Options:** Distal stimulus, Proximal stimulus, Retinal image, Percept
+    * **Accepted Answer:** Distal stimulus
+* **Question 2:** A patient with prosopagnosia has difficulty recognizing:
+    * **Options:** Drawing of objects, Moving objects, Faces, Sounds
+    * **Accepted Answer:** Faces
+* **Question 3:** When you let go of a balloon and it floats away from you into the sky, the size of the retinal image gets smaller and smaller. However, you do not perceive the balloon as shrinking. This is an example of:
+    * **Options:** Pattern recognition, Bottom-up processing, Size constancy, Figure-ground organization
+    * **Accepted Answer:** Size constancy
+* **Question 4:** The meaningful interpretation of a proximal stimulus is called the:
+    * **Options:** Percept, Sensation, Distal stimulus, Retinal Image
+    * **Accepted Answer:** Percept
+* **Question 5:** The two best studied forms of perception are:
+    * **Options:** Visual and Haptic, Visual and Olfactory, Visual and Auditory, Auditory and Olfactory
+    * **Accepted Answer:** Visual and Auditory
+* **Question 6:** Which of the following represents a good example of a proximal stimulus?
+    * **Options:** A book on a shelf, A tree in your yard, A building on the horizon, The retinal image formed by a tree
+    * **Accepted Answer:** The retinal image formed by a tree
+* **Question 7:** According to Gibson’s theory, the acts or behaviors permitted by objects, places, and events are called:
+    * **Options:** Consequences, Functions, Affordances, Direct processes
+    * **Accepted Answer:** Affordances
+* **Question 8:** A stencil provides a good analogy for the theory of:
+    * **Options:** Prototype matching, Template matching, Good continuation, Featural analysis
+    * **Accepted Answer:** Template matching
+* **Question 9:** __________ are to visual perception what phonemes are to language, according to Biederman.
+    * **Options:** Receptors, Retinas, Distal stimuli, Geons
+    * **Accepted Answer:** Geons
+* **Question 10:** The principle governing reversible figures is:
+    * **Options:** Figure-ground organization, Size constancy, Dimensionality, Retinal imagery
+    * **Accepted Answer:** Figure-ground organization
+
+### [cite_start]**Week 3** [cite: 35089]
+* **Question 1:** According to Attenuation theory of Treisman, people tend to process:
+    * **Options:** Only to the level of physical characteristics, Only to the level of linguistic characteristics, separating it into words, At a semantic level, analysing for meaning most of the time, Only as much as is necessary to separate the attended from the unattended message
+    * **Accepted Answer:** Only as much as is necessary to separate the attended from the unattended message
+* **Question 2:** The “cocktail party effect” refers to the fact that shadowing performance is disrupted when _______ is embedded in the unattended message.
+    * **Options:** Backward speech, The listener’s name, A section of repeated words, Music
+    * **Accepted Answer:** The listener’s name
+* **Question 3:** In Kahneman’s model of attention, allocation of mental resources is affected by preferences for certain kinds of tasks over others. These preferences are known as:
+    * **Options:** Enduring dispositions, Arousal states, Late selected preferences, Momentary intentions
+    * **Accepted Answer:** Enduring dispositions
+* **Question 4:** The word “cat” is ______ by the phrase “The dog chased the….” That is, the word cat is especially ready to be recognized or attended to.
+    * **Options:** filtered, attenuated, primed, suggested
+    * **Accepted Answer:** primed
+* **Question 5:** When listening to a conversation, your attention is momentarily diverted when you hear your name spoken in a different conversation across the room. This is an example of the:
+    * **Options:** filter effect, dichotic listening phenomenon, cocktail party effect, attenuation effect
+    * **Accepted Answer:** cocktail party effect
+* **Question 6:** Which of the following would NOT be a reasonable basis for filtering, according to Broadbent’s model?
+    * **Options:** Whether the message was coming from your right or your left side, The pitch of the voice reading the message, The loudness of the voice reading the message, The language that the message was being read in
+    * **Accepted Answer:** The language that the message was being read in
+* **Question 7:** Cognitive psychologists use all of the following as criteria for determining whether an activity is automatic EXCEPT:
+    * **Options:** Whether it occurs intentionally, Whether it gives rise to conscious awareness, Whether it interferes with other activities, Whether it requires mental filtering
+    * **Accepted Answer:** Whether it requires mental filtering
+* **Question 8:** Certain stimuli seem to jump off the page at the viewer, causing an involuntary shift of attention that is referred to as:
+    * **Options:** The Stroop effect, Attentional capture, Attenuation, The cocktail party effect
+    * **Accepted Answer:** Attentional capture
+* **Question 9:** Stroop interference lessens when:
+    * **Options:** Participants are better readers, Participants are given more practice at naming colours, Participants are girls rather than boys, Participants are encouraged to focus carefully
+    * **Accepted Answer:** Participants are given more practice at naming colours
+* **Question 10:** Research on divided attention suggests that:
+    * **Options:** Some people can multitask without any drop in performance, There are no limits on the number of things that we can successfully do at once, As individual tasks becomes more demanding, multitasking becomes more efficient, If you think that you are doing two things simultaneously, you are probably really switching attention back and forth between the two
+    * **Accepted Answer:** If you think that you are doing two things simultaneously, you are probably really switching attention back and forth between the two
+
+### [cite_start]**Week 4** [cite: 35088]
+* **Question 1:** Which of the following is NOT a component of Baddeley’s working memory model?
+    * **Options:** The phonological loop, The icon, The central executive, The visuospatial sketchpad
+    * **Accepted Answer:** The icon
+* **Question 2:** Sternberg’s classic work on searching for information from short-term memory indicated that the search process is:
+    * **Options:** Serial, Self - terminating, Parallel, Both serial and exhaustive
+    * **Accepted Answer:** Both serial and exhaustive
+* **Question 3:** In the absence of rehearsal, short-term memory tends to:
+    * **Options:** Last about 20 seconds, Last about 8 seconds, Decay slowly over 24 hours, Decay slowly over a week
+    * **Accepted Answer:** Last about 20 seconds
+* **Question 4:** The suffix effect relates to which type of memory?
+    * **Options:** Iconic, Echoic, Short term, Working
+    * **Accepted Answer:** Echoic
+* **Question 5:** Unattended information is stored briefly in:
+    * **Options:** Sensory memory, Short term memory, Long term memory, Working memory
+    * **Accepted Answer:** Sensory memory
+* **Question 6:** Retrieval involves:
+    * **Options:** The activation of the senses, The translation of information into a form that can be stored, The storage of information over time, The calling to mind of previously stored information
+    * **Accepted Answer:** The calling to mind of previously stored information
+* **Question 7:** The primacy and recency effects in memory:
+    * **Options:** Are thought to be due to the action of short-term memory, Are thought to be due to the action of long-term memory, Are thought to be due to the action of sensory memory, Can be independently manipulated, indicating at least two types of memory at work
+    * **Accepted Answer:** Can be independently manipulated, indicating at least two types of memory at work
+* **Question 8:** Information in short-term memory is assumed to be coded primarily by:
+    * **Options:** Sound, Meaning, Visual appearance, Both sound and meaning
+    * **Accepted Answer:** Sound
+* **Question 9:** Repeating a phone number to yourself to hold it in memory while you dial it would use which component of working memory?
+    * **Options:** The visuospatial sketchpad, The phonological loop, The episodic buffer, Both the visuospatial sketchpad and the phonological loop
+    * **Accepted Answer:** The phonological loop
+* **Question 10:** Disrupting the process of long-term potentiation leads to:
+    * **Options:** Disruption of learning and remembering, Recovery from anterograde amnesia, Recovery from retrograde amnesia, Language deficits
+    * **Accepted Answer:** Disruption of learning and remembering
+
+### [cite_start]**Week 5** [cite: 35087]
+* **Question 1:** As classically conceived, long-term memory is held to have all of the following properties EXCEPT:
+    * **Options:** It comprises a permanent or at least semipermanent store, It has virtually unlimited capacity, It primarily uses acoustic coding, Information stored within it is not always easily accessible
+    * **Accepted Answer:** It primarily uses acoustic coding
+* **Question 2:** Psychologists believe that the capacity of long-term memory is:
+    * **Options:** unlimited, 7 + 2 items, 18 items, 5000 items
+    * **Accepted Answer:** unlimited
+* **Question 3:** Which of the following are most likely to be confused in long-term memory?
+    * **Options:** The letters P and R, The letters C and B, The words “see” and “bee”, The words “big” and “large”
+    * **Accepted Answer:** The words “big” and “large”
+* **Question 4:** The code in long-term memory is based on:
+    * **Options:** Sound, Visual imagery, Meaning, Both sound and visual imagery
+    * **Accepted Answer:** Meaning
+* **Question 5:** Your memory for how to ride a bicycle is an example of ______ memory.
+    * **Options:** Explicit, Implicit, Declarative, Procedural
+    * **Accepted Answer:** Procedural
+* **Question 6:** A retrieval cue will be most effective when it is highly distinctive or unusual, according to the principle of:
+    * **Options:** Cue overload, Encoding specificity, Mood dependence, State dependence
+    * **Accepted Answer:** Cue overload
+* **Question 7:** Context effects and state-dependent learning effects occur:
+    * **Options:** For recall tests only, For recognition tests only, For both recall and recognition, For paired associate tests only
+    * **Accepted Answer:** For recall tests only
+* **Question 8:** Bahrick’s study of retention of Spanish vocabulary words showed that large portions of information remained in long-term memory for:
+    * **Options:** Several months, 1-2 years, Up to 5 years, Over 50 years
+    * **Accepted Answer:** Over 50 years
+* **Question 9:** Techniques designed to improve memory, often involving the use of visual imagery, are called:
+    * **Options:** Mnemonics, Eidetic, Iconic, IQ enhancers
+    * **Accepted Answer:** Mnemonics
+* **Question 10:** Your memory of your first college lecture would be an example of:
+    * **Options:** Semantic memory, Episodic memory, Implicit memory, Working memory
+    * **Accepted Answer:** Episodic memory
+
+### [cite_start]**Week 6** [cite: 35086]
+* **Question 1:** According to the notion of cognitive economy, a characteristic like “has wings” would be stored along with which of the following semantic memory nodes.
+    * **Options:** Bird, Ostrich, Hummingbird, All of the above
+    * **Accepted Answer:** Bird
+* **Question 2:** Priming in lexical decision tasks may be explained by the idea of:
+    * **Options:** Episodic memory, Encoding specificity, Spreading activation, Typicality effects
+    * **Accepted Answer:** Spreading activation
+* **Question 3:** Which of the following is a good example of a superordinate level of categorization?
+    * **Options:** Fruit, Banana, Fuji apple, Golden delicious apple
+    * **Accepted Answer:** Fruit
+* **Question 4:** The schema view of concept formation assumes that:
+    * **Options:** There are clear boundaries among individual schemata, There is cognitive economy among concepts, Information is abstracted across instances, No information is stored about actual instances
+    * **Accepted Answer:** Information is abstracted across instances
+* **Question 5:** According to research by Collins and Quillian, the statement “Siamese cats have blue eyes” will be verified:
+    * **Options:** Slower than “Siamese cats give birth to live young”, Faster than “Siamese cats give birth to live young”, In the same amount of time as “Siamese cats give birth to live young”, Slower than “Siamese cats have tails”
+    * **Accepted Answer:** Faster than “Siamese cats give birth to live young”
+* **Question 6:** Conrad has found evidence that the statement “A shark can move” can be verified in the same amount of time as “An animal can move.” These results suggest that reaction time is best predicted by:
+    * **Options:** Cognitive economy, Frequency of associations, Encoding specificity, Episodic memory
+    * **Accepted Answer:** Frequency of associations
+* **Question 7:** Which of the following would be a part of your declarative memory system?
+    * **Options:** Knowing how to ride a bicycle, Knowing how to drive a car, Knowing how to react a red light, Being able to name a hybrid car
+    * **Accepted Answer:** Being able to name a hybrid car
+* **Question 8:** Collins and Loftus’s spreading activation theory differs from the hierarchical network theory in that:
+    * **Options:** It dispenses with the idea of cognitive economy, It relies on the assumption of hierarchical structure, It cannot account for the typicality effect, It makes stronger predictions than hierarchical models
+    * **Accepted Answer:** It dispenses with the idea of cognitive economy
+* **Question 9:** “Characteristic features” and “family resemblance” are important aspects of the ________ view of concepts.
+    * **Options:** Classical, Prototype, Exemplar, Schema
+    * **Accepted Answer:** Prototype
+* **Question 10:** Studies of semantic memory have shown that in a lexical decision task, people are faster at responding to the stimulus “bread” if it is paired with a stimulus such as:
+    * **Options:** “rencle”, “dog”, “island”, “butter”
+    * **Accepted Answer:** “butter”
+
+### [cite_start]**Week 7** [cite: 35085]
+* **Question 1:** According to the ______ view of concepts, people categorize new instances by comparing them to representations of previously stored instances.
+    * **Options:** Classical, Prototype, Exemplar, Schema
+    * **Accepted Answer:** Exemplar
+* **Question 2:** According to the typicality effect, the statement “A dog is a household pet” should be verified:
+    * **Options:** Faster than “a poodle is a household pet”, Faster than “a dog is a living thing”, Faster than “a ferret is a household pet”, Faster than “a dog is an animal”
+    * **Accepted Answer:** Faster than “a ferret is a household pet”
+* **Question 3:** Which of the following would be considered an example of a “natural kind” concept?
+    * **Options:** Blue, Wolf, Odd number, Mirror
+    * **Accepted Answer:** Wolf
+* **Question 4:** A schema for a routine event, such as going to the dentist, is called a:
+    * **Options:** Concept, Script, Exemplar, Category
+    * **Accepted Answer:** Script
+* **Question 5:** A _______ is a mental representation of some object, event, or pattern.
+    * **Options:** Category, Concept, Script, Memory
+    * **Accepted Answer:** Concept
+* **Question 6:** A ______ can be defined as a class of similar things that share either an essential core, or some similarity in perceptual, biological, or functional properties.
+    * **Options:** Category, Concept, Script, Schema
+    * **Accepted Answer:** Category
+* **Question 7:** Which of the following is NOT TRUE of the classical view of concepts?
+    * **Options:** It proposes that concepts are mentally represented by list of features., It assumes that membership in a category is clear-cut., It accurately predicts the typicality effect., ‘Necessity’ and ‘sufficient’ features play an important role in the theory.
+    * **Accepted Answer:** It accurately predicts the typicality effect.
+* **Question 8:** Which of the following is a good example of a basic level of categorization?
+    * **Options:** Musical instrument, Piano, Electronic keyboard, String instrument
+    * **Accepted Answer:** Piano
+* **Question 9:** If “soda” is a basic-level category, then ______ would be a subordinate level.
+    * **Options:** Soft drink, Beverage, Drink, Coca-Cola
+    * **Accepted Answer:** Coca-Cola
+* **Question 10:** The ______ view of concepts argues that a person uses his/her theories about the way the world works to justify the classification of instances in the same category.
+    * **Options:** Classical, Prototype, Knowledge based, Schema
+    * **Accepted Answer:** Knowledge based
+
+### [cite_start]**Week 8** [cite: 35077]
+* **Question 1:** Participants doing mental imagery tasks tend to show brain activity in the:
+    * **Options:** Temporal lobe, Parietal lobe, Frontal lobe, Occipital lobe
+    * **Accepted Answer:** Occipital lobe
+* **Question 2:** How do people represent and navigate in and through space? This is a question of
+    * **Options:** Navigational cognition, Representational cognition, Spatial cognition, Visual cognition
+    * **Accepted Answer:** Spatial cognition
+* **Question 3:** Images can prime the visual pathway, making it easier to detect a faint stimulus. This is an example of:
+    * **Options:** Perceptual equivalence, Spatial equivalence, Structural equivalence, Transformational equivalence
+    * **Accepted Answer:** Perceptual equivalence
+* **Question 4:** Which of the following questions would take you the LONGEST TIME to answer?
+    * **Options:** Which is faster, a turtle or a sports car?, Which is faster, a turtle or a cheetah?, Which is faster, a turtle or a caterpillar?, Which is faster, a caterpillar or a cat?
+    * **Accepted Answer:** Which is faster, a turtle or a caterpillar?
+* **Question 5:** The relational-organizational hypothesis is supported by:
+    * **Options:** The effectiveness of the method of loci, The fact that concrete words are recalled better than abstract words, The fact that non-interactive images do not facilitate recall whereas interactive images do facilitate recall, The effectiveness of the pegword method
+    * **Accepted Answer:** The fact that non-interactive images do not facilitate recall whereas interactive images do facilitate recall
+* **Question 6:** Paivio’s ____ hypothesis argues that long-term memory contains two separate systems that represent information in verbal and visual forms, respectively.
+    * **Options:** Picture-word, Dual code, Visuo-verbal, Relational-Organizational
+    * **Accepted Answer:** Dual code
+* **Question 7:** Which of the following methods would most help you to remember the word pair “elephant-cigar”?
+    * **Options:** Repeating the word elephant over and over while visualizing a cigar, Visualizing an elephant smoking a cigar, Repeating both words over and over to yourself, Visualizing an elephant and a cigar, not touching each other
+    * **Accepted Answer:** Visualizing an elephant smoking a cigar
+* **Question 8:** Your mental map of your campus is probably:
+    * **Options:** Larger than reality, Smaller than reality, More regular, with more straight lines and right angles, than reality, Less regular, with fewer straight lines and right angles, than reality
+    * **Accepted Answer:** More regular, with more straight lines and right angles, than reality
+* **Question 9:** Finke’s principle of _____ states that mental imagery allows us to retrieve information that was not intentionally stored.
+    * **Options:** Perceptual equivalence, Transformational equivalence, Implicit encoding, Structural encoding
+    * **Accepted Answer:** Implicit encoding
+* **Question 10:** A propositional representation is thought to be ______ in nature.
+    * **Options:** Verbal, Visual, Both verbal and visual, Neither verbal nor visual
+    * **Accepted Answer:** Neither verbal nor visual
+
+### [cite_start]**Week 9** [cite: 35082]
+* **Question 1:** Which of the following is/are generally agreed upon as necessary criteria/criterion for claiming that a communication system is a language?
+    * **Options:** Regularity, Productivity, Referentiality, Both regularity and productivity
+    * **Accepted Answer:** Both regularity and productivity
+* **Question 2:** Infinite combinations of ideas can be expressed in language. In other words, language is:
+    * **Options:** Regular, Interpersonal, Productive, Referential
+    * **Accepted Answer:** Productive
+* **Question 3:** A fundamental problem of speech perception, according to Miller, is that:
+    * **Options:** Speech is discrete rather than continuous, A single phoneme sounds different depending on its context, Hearing is a less accurate rather than vision, Missing phonemes can render words incomprehensible
+    * **Accepted Answer:** A single phoneme sounds different depending on its context
+* **Question 4:** The branch of linguistics devoted to the study of meaning:
+    * **Options:** Phonetics, Semantics, Morphology, Pragmatics
+    * **Accepted Answer:** Semantics
+* **Question 5:** Did she say “many” or “men knee”? This type of ambiguity is referred to as:
+    * **Options:** Phonetic, Lexical, Syntactic, Semantic
+    * **Accepted Answer:** Phonetic
+* **Question 6:** The underlying knowledge that allows people to produce and comprehend their language is called:
+    * **Options:** Linguistic performance, Linguistic competence, Linguistic production, Grammatical behaviour
+    * **Accepted Answer:** Linguistic competence
+* **Question 7:** The study of the ways in which sounds can be combined in any given language is called:
+    * **Options:** Phonology, Morphology, Syntax, Grammar
+    * **Accepted Answer:** Phonology
+* **Question 8:** We notice ambiguities in sentences:
+    * **Options:** All the time, In “garden path” sentences, When they are humorous, When they make no sense at all
+    * **Accepted Answer:** In “garden path” sentences
+* **Question 9:** According to research, which of the following sets of sentences would take the longest amount of time to read and comprehend?
+    * **Options:** We took the dog to the vet. The dog was nervous., Sara drove the car to the market. The car ran out of gas., She wrapped the Christmas presents. The sweater needed a larger box., We got some beer out of the car. The beer was warm.
+    * **Accepted Answer:** She wrapped the Christmas presents. The sweater needed a larger box.
+* **Question 10:** Speech acts in which the utterance itself is the action—such as “You’re fired!”—are considered to be which type of speech act?
+    * **Options:** Declaration, Directive, Commissive, Expressive
+    * **Accepted Answer:** Declaration
+
+### [cite_start]**Week 10** [cite: 35081]
+* **Question 1:** _____ is defined as “going beyond the information given.”
+    * **Options:** Problem solving, Thinking, Decision making, Remembering
+    * **Accepted Answer:** Thinking
+* **Question 2:** Which of the following is an example of an ill-defined problem?
+    * **Options:** Putting together your schedule of classes for next semester, Constructing a proof in geometry, Solving an algebra problem, Solving the Tower of Hanoi problem
+    * **Accepted Answer:** Putting together your schedule of classes for next semester
+* **Question 3:** The problem-solving technique of ______ involves comparing the goal with the starting point, thinking of possible ways to overcome the distance between them, and choosing the best one.
+    * **Options:** Generate and test, Means end analysis, Reasoning by analogy, Mental set
+    * **Accepted Answer:** Means end analysis
+* **Question 4:** Mental set:
+    * **Options:** Can only be induced by large amount of practice, Can lead us to make unwarranted assumption about a problem, Involves the use of analogy to solve a problem, Aids problem solving because it supplies an efficient problem representation
+    * **Accepted Answer:** Can lead us to make unwarranted assumption about a problem
+* **Question 5:** When one recalls the solution to an old problem and uses it to solve a new, similarly structured problem, one has reasoned by:
+    * **Options:** Introspection, Analysis, Analogy, Backtracking
+    * **Accepted Answer:** Analogy
+* **Question 6:** ______ is a very important technique for solving the Towers of Hanoi problem.
+    * **Options:** Means-end analysis, Generate-and-test, Working backward, Trial and error
+    * **Accepted Answer:** Working backward
+* **Question 7:** Which of the following is the best example of a well-defined problem?
+    * **Options:** Creating a guest list for a party, Finding a detour around a traffic problem, Constructing a proof in algebra, Writing a paper for your cognition class
+    * **Accepted Answer:** Constructing a proof in algebra
+* **Question 8:** Psychologists focus on well-defined problems because:
+    * **Options:** They are easy to present, They often take weeks or months to solve, They can be complicated to score, They accurately mirror real world problems
+    * **Accepted Answer:** They are easy to present
+* **Question 9:** Adoption of a rigid mental set toward an object is called:
+    * **Options:** Well-defined thinking, Ill-defined thinking, Functional fixedness, Object set
+    * **Accepted Answer:** Functional fixedness
+* **Question 10:** The General Problem Solver (GPS) is a computer program that solves problems in crypt arithmetic and logic using:
+    * **Options:** Mean end analysis, Generate-and-test, Reasoning by analogy, Introspection
+    * **Accepted Answer:** Mean end analysis
+
+### [cite_start]**Week 11** [cite: 35080]
+* **Question 1:** Deductive reasoning involves which of the following?
+    * **Options:** Going from general to specific statements, Conclusions that add new information to what is given, Going from specific to general statements, Going from specific to specific statements
+    * **Accepted Answer:** Going from general to specific statements
+* **Question 2:** If a person has five letters in his or her name, then s/he is a Glirple. I can now validly assume that:
+    * **Options:** Shawn is a Glirple, Shawn is a Glirple and anyone who is not a Glirple cannot be name Susan, Anyone who is a Glirple must have five letters in his/her name, Anyone who is not a Glirple cannot be name Susan
+    * **Accepted Answer:** Shawn is a Glirple, and anyone who is not a Glirple cannot be name Susan
+* **Question 3:** When we assess probability by judging the ease with which relevant examples come to mind, we are using the heuristic of:
+    * **Options:** Representativeness, Availability, Framing, Hindsight
+    * **Accepted Answer:** Availability
+* **Question 4:** Which type of reasoning results in conclusions that contain new information?
+    * **Options:** Inductive reasoning, Deductive reasoning, Invalid reasoning, Both inductive and deductive reasoning
+    * **Accepted Answer:** Inductive reasoning
+* **Question 5:** If performed correctly, deductive reasoning can be said to have _______. This means that it is impossible for the premises to be true and the conclusion to be false.
+    * **Options:** Inductive strength, Deductive strength, Inductive validity, Deductive validity
+    * **Accepted Answer:** Deductive validity
+* **Question 6:** If a person has five letters in his/her name, then s/he is a Glirple. Angie now reasons that Fred cannot possibly be a Glirple. Angie has:
+    * **Options:** Made a correct inference to modus ponens, Made a correct inference to modus tollens, Committed the fallacy of denying the antecedent, Committed the fallacy of affirming the consequent
+    * **Accepted Answer:** Committed the fallacy of denying the antecedent
+* **Question 7:** When Wason’s four-card task is replaced with an everyday problem about checking the identification of people who are drinking Coke and beer:
+    * **Options:** People still neglect modus tollens in their responses, People turn over all the four cards instead of the two that are necessary and sufficient, People turn over only one card instead of the two that are necessary and sufficient, About 75% participants solve the problem correctly
+    * **Accepted Answer:** About 75% participants solve the problem correctly
+* **Question 8:** Some members of the Jones family are tall. Some tall people play basketball. Which of the following is true?
+    * **Options:** Logically some members of the Jones family play basketball, Logically no members of the Jones family play basketball, Most people assume that some people of the Jones family play basketball, Most people assume that all members of the Jones family play basketball
+    * **Accepted Answer:** Most people assume that some people of the Jones family play basketball
+* **Question 9:** The ease of reasoning about an analogy depends on all of these factors EXCEPT:
+    * **Options:** The difficulty of comprehending the individual terms in the analogy, The reasoner’s knowledge about the individual terms, The difficulty of finding a relationship between the first two terms, The reasoner’s amount of training in formal reasoning procedures
+    * **Accepted Answer:** The reasoner’s amount of training in formal reasoning procedures
+* **Question 10:** Which of the following is a difference between everyday reasoning and formal reasoning?
+    * **Options:** In everyday reasoning all premises are usually supplied, In everyday reasoning there is typically one correct answer, In everyday reasoning problems are solved as a means of achieving other goals, In formal reasoning problems are not self-contained
+    * **Accepted Answer:** In everyday reasoning, problems are solved as a means of achieving other goals
+
+### [cite_start]**Week 12** [cite: 35076]
+* **Question 1:** The gambler’s fallacy is thought of as a special instance of:
+    * **Options:** framing, availability, belief in the number of small numbers, hindsight
+    * **Accepted Answer:** belief in the number of small numbers
+* **Question 2:** You have just spent 10 minutes trying to figure out the answer to a single problem on your math quiz. In spite of your lack of success, you continue to struggle, neglecting to continue on to other problems because you have already invested so much time and effort in this problem. You have fallen victim to:
+    * **Options:** the sunk cost effect, a framing effect, the anchor effect, availability bias
+    * **Accepted Answer:** the sunk cost effect
+* **Question 3:** Normative models of decision making describe:
+    * **Options:** how we ought to make decisions in realistic circumstances, ideal performance under ideal circumstances, what people actually do when they make decisions, cognitive illusions
+    * **Accepted Answer:** ideal performance under ideal circumstances
+* **Question 4:** Past events seems “inevitable” due to the action of the:
+    * **Options:** framing effect, hindsight bias, gambler’s fallacy, availability heuristic
+    * **Accepted Answer:** hindsight bias
+* **Question 5:** Anita is blonde, extremely attractive and lives in an expensive condo. If we judge the probability of Anita’s being a model as quite high because she resembles our stereotype of a model, we are using the heuristic of:
+    * **Options:** representativeness, availability, framing, the law of small numbers
+    * **Accepted Answer:** representativeness
+* **Question 6:** The mental activities that takes place in choosing among alternatives are collectively called:
+    * **Options:** problem solving, inductive reasoning, deductive reasoning, decision making
+    * **Accepted Answer:** decision making
+* **Question 7:** The tendency to seek out information that supports our current beliefs is called:
+    * **Options:** believability effect, content effect, confirmation bias, syllogistic reasoning
+    * **Accepted Answer:** confirmation bias
+* **Question 8:** Which of the following is NOT one of the five phases of decision making, according to Galotti.
+    * **Options:** Goal setting, Information gathering, Planning, Random choice
+    * **Accepted Answer:** Random choice
+* **Question 9:** According to psychologists, human decision making often falls short of optimality because:
+    * **Options:** There is not enough information available to make a rational decision, One cannot be rational under conditions of uncertainty, The information available overwhelms the cognitive processes, Rationality assumes a higher degree of intelligence than most people have
+    * **Accepted Answer:** The information available overwhelms the cognitive processes
+* **Question 10:** The phase of decision making finding a way to organize information is called:
+    * **Options:** Goal setting, Planning, Structuring the decision, Evaluating
+    * **Accepted Answer:** Structuring the decision

@@ -1,0 +1,2 @@
+"import json\nimport re\n\nhtml_path = '/Users/vishnu/Desktop/cognitive/quiz-app/CogniQuiz.html'\n\nwith open(html_path, 'r') as f:\n    content = f.read()\n\n# Find the QUESTIONS_DB object\n# It starts with const QUESTIONS_DB = { and ends before the next 
+<truncated 3944 bytes>

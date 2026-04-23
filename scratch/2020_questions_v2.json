@@ -1,0 +1,1574 @@
+[
+  {
+    "id": "w1q1",
+    "week": 1,
+    "question": "Who is known as Father of structuralism?",
+    "options": [
+      "Edward B. Titchener",
+      "Thorndike",
+      "Wilhelm Wundt",
+      "William James"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w1q2",
+    "week": 1,
+    "question": "Which psychology school proposed that mental activities can be broken down into basic operational elements",
+    "options": [
+      "Behaviorism",
+      "Structuralism",
+      "Gestalt psychology",
+      "Functionalism"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w1q3",
+    "week": 1,
+    "question": "Which \"school\" of psychology emphasized objectivity of research methods and",
+    "options": [
+      "behaviorism",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w1q4",
+    "week": 1,
+    "question": "Which school of Psychology assume that psychological phenomena could not be reduced to simple elements but rather had to be analyzed and studied in their entirety",
+    "options": [
+      "Behaviorism",
+      "Structuralism",
+      "Functionalism",
+      "Gestalt"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w1q5",
+    "week": 1,
+    "question": "The philosopher John Locke was a strong believer in _____ which rests on the assumption that knowledge comes from an individual's own experience",
+    "options": [
+      "empiricism",
+      "nativism",
+      "introspection",
+      "behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w1q6",
+    "week": 1,
+    "question": "Who proposed that - \"Behavior is a learned response, reinforced by the consequences resulting from that behavior\".",
+    "options": [
+      "John B. Watson",
+      "Thorndike",
+      "Ivan Pavlov",
+      "B.F. Skinner"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w1q7",
+    "week": 1,
+    "question": "All connectionist models share the assumption that:",
+    "options": [
+      "processing occurs serially",
+      "a central processor directs the flow of information",
+      "processing occurs in parallel",
+      "knowledge is stored in various storehouses"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w1q8",
+    "week": 1,
+    "question": "Mental representation consists of",
+    "options": [
+      "Form",
+      "Content",
+      "Form and Content",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w1q9",
+    "week": 1,
+    "question": "The earliest theories about cognitive abilities date back to:",
+    "options": [
+      "Aristotle and Plato",
+      "Sigmund Freud",
+      "Williams James",
+      "Benjamin Franklin"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w1q10",
+    "week": 1,
+    "question": "Boxes-and arrows models of cognition is based on which paradigm of psychology",
+    "options": [
+      "Evolutionary approach",
+      "Information processing approach",
+      "Ecological Approach",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w2q1",
+    "week": 2,
+    "question": "The process of sensory input and their meaningful interpretation of information is known as",
+    "options": [
+      "Sensation",
+      "Perception",
+      "Recognition",
+      "Identification"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w2q2",
+    "week": 2,
+    "question": "Which of the following sequence is correct for classic approach to perception",
+    "options": [
+      "proximal stimulus, sensory registration, distal stimulus, percept",
+      "distal stimulus, proximal stimulus, percept, sensory registration",
+      "distal stimulus, sensory registration, proximal stimulus, percept",
+      "sensory registration, distal stimulus, proximal stimulus, percept"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w2q3",
+    "week": 2,
+    "question": "Which school of psychology explains the phenomena of figure-ground organization",
+    "options": [
+      "Functionalism",
+      "Gestalt",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w2q4",
+    "week": 2,
+    "question": "Reversible figures illustrate the principle of:",
+    "options": [
+      "size constancy",
+      "figure-ground organization",
+      "dimensionality",
+      "retinal imagery"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w2q5",
+    "week": 2,
+    "question": "The perceiver starts with small bits of information from the environment that he combines in various ways to form a percept is processed through",
+    "options": [
+      "Template matching",
+      "Theory-driven processing",
+      "Data-driven processing",
+      "Parallel processing"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w2q6",
+    "week": 2,
+    "question": "How many primitive geons were explained by Biederman",
+    "options": [
+      "36",
+      "72",
+      "44",
+      "63"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w2q7",
+    "week": 2,
+    "question": "People perceive and interpret complex things into its simplest form is known as",
+    "options": [
+      "Principle of similarity",
+      "Law of pragnanz",
+      "Principle of proximity",
+      "Principle of common fate"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w2q8",
+    "week": 2,
+    "question": "Which of the following model consists demons as feature detector",
+    "options": [
+      "Template matching",
+      "Gestalt perception",
+      "Prototype matching",
+      "Pandemonium model"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w2q9",
+    "week": 2,
+    "question": "The top-down process of perception interacts with the bottom-up process also. What is the correct sequence for visual perception explained by David Marr",
+    "options": [
+      "2-D sketch, 2\u00bd- D sketch, 3-D sketch",
+      "1-D sketch, 2-D sketch, 3-D sketch",
+      "primal sketch, 2-D sketch, 3-D sketch",
+      "primal sketch, 2\u00bd-D sketch, 3-D sketch"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w2q10",
+    "week": 2,
+    "question": "Who gave the idea of optic flow during world war II",
+    "options": [
+      "Marr",
+      "Cattell",
+      "Gibson",
+      "Rensink"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w3q1",
+    "week": 3,
+    "question": "Dichotic listening task is used to investigates",
+    "options": [
+      "selective attention",
+      "auditory function",
+      "hearing problems",
+      "attention"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w3q2",
+    "week": 3,
+    "question": "Jacob is attending only important information which are relevant to him and blocking the unwanted information, which attentional theory can explain this phenomenon",
+    "options": [
+      "Attenuation theory",
+      "Late selection theory",
+      "Schema theory",
+      "Filter theory"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w3q3",
+    "week": 3,
+    "question": "Greater effort or concentration results in better performance on:",
+    "options": [
+      "tasks that require resource-limited processing",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w3q4",
+    "week": 3,
+    "question": "In a book fair, most of the people tune into a single voice when hearing their own name and ignore other voices, this phenomenon is famously known as",
+    "options": [
+      "Priming effect",
+      "Selective attention",
+      "Cocktail party effect",
+      "Dichotic listening"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w3q5",
+    "week": 3,
+    "question": "Which of the following factors does NOT influence the allocation of mental resources in Kahneman's capacity model?",
+    "options": [
+      "the lateness of selection",
+      "the difficulty of the task",
+      "enduring dispositions",
+      "the state of arousal"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w3q6",
+    "week": 3,
+    "question": "Who describes the allocation policies for cognitive resources in attention process",
+    "options": [
+      "Becklen",
+      "Neisser",
+      "Johnston & Heinz",
+      "Kahneman"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w3q7",
+    "week": 3,
+    "question": "Which of the following criteria is required for cognitive process to be automatic processing according to Posner and Snyder",
+    "options": [
+      "It must occur without intention",
+      "It must occur without involving conscious awareness",
+      "It must not interfere with other mental activity",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w3q8",
+    "week": 3,
+    "question": "Which of the following task is better in explaining effect of practice in attention",
+    "options": [
+      "Priming",
+      "Visual search task",
+      "Dichotic listening task",
+      "Stroop task"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w3q9",
+    "week": 3,
+    "question": "Inattentional blindness occurs due to",
+    "options": [
+      "Psychiatric deficits",
+      "Lack of perception",
+      "Visual blindness",
+      "Lack of attention"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w3q10",
+    "week": 3,
+    "question": "When attention is overloaded, then participants make integration error, result in",
+    "options": [
+      "Illusory conjunction",
+      "Inattention",
+      "Memory illusion",
+      "Divided attention"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w4q1",
+    "week": 4,
+    "question": "Iconic memory is associated with which of the sensory modality",
+    "options": [
+      "Auditory",
+      "Smell",
+      "Visual",
+      "Touch"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w4q2",
+    "week": 4,
+    "question": "If two stimuli arrive at the same time, the response for second stimuli will be slower than first stimuli. This phenomenon is referred to as:",
+    "options": [
+      "Response time",
+      "Latency period",
+      "Psychological refractory period",
+      "Relative dependence period"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w4q3",
+    "week": 4,
+    "question": "The results of the Brown-Peterson short-term memory task can be explained by:",
+    "options": [
+      "both decay and interference",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w4q4",
+    "week": 4,
+    "question": "Haptic memory is associated with which of the sensory modality",
+    "options": [
+      "Visual",
+      "Auditory",
+      "Touch",
+      "Smell"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w4q5",
+    "week": 4,
+    "question": "Who gave magic number",
+    "options": [
+      "George A. Miller",
+      "Neisser",
+      "R. Conrad",
+      "Baddeley"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w4q6",
+    "week": 4,
+    "question": "FBINSAKGBCBICIAMI5BND The total string can be learnt by breaking it into initials for security agencies around the world, it could be possible by",
+    "options": [
+      "Editing",
+      "Chunking",
+      "Memory",
+      "Leaming"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w4q7",
+    "week": 4,
+    "question": "Studies of coding in short-term memory suggest that which of the following would be most DIFFICULT to recall correctly?",
+    "options": [
+      "big-large-huge-tall-wide",
+      "C-O-G-Q-D",
+      "A-E-I-O-U",
+      "C-D-P-V-T"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w4q8",
+    "week": 4,
+    "question": "The primary function of central executive of working memory system",
+    "options": [
+      "Rehearsal",
+      "Attentional system",
+      "Memory store",
+      "Retrieval of information"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w4q9",
+    "week": 4,
+    "question": "John retrieves the information from past and uses this information to make some strategies to perform a specific task. Which of the working memory component was active during this?",
+    "options": [
+      "Phonological buffer",
+      "Episodic buffer",
+      "Central executive",
+      "Visuospatial sketchpad"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w4q10",
+    "week": 4,
+    "question": "Who proposed the working memory model",
+    "options": [
+      "Hitch",
+      "Baddeley",
+      "Baddeley and Hitch",
+      "Baddeley and Andrade"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w5q1",
+    "week": 5,
+    "question": "Which of the following are most likely to be confused in long-term memory?",
+    "options": [
+      "the words \"see\" and \"bee\"",
+      "the words \"big\" and \"large\"",
+      "the letters P and R",
+      "the letters C and B"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w5q2",
+    "week": 5,
+    "question": "You had just heard some bad news and were very sad when you listened to a lecture on levels of processing. Now it is time to take a test on that lecture material. According to the mood-dependent memory effect, you should:",
+    "options": [
+      "sit in the same seat in the classroom as when you listened to the lecture",
+      "try to associate the lecture with your own life",
+      "watch a sad movie just before the exam",
+      "attempt to visualize the material."
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w5q3",
+    "week": 5,
+    "question": "Memory of facts and memory of time and event is respectively known as",
+    "options": [
+      "Semantic memory",
+      "Semantic memory, episodic memory",
+      "Functionalism",
+      "Structuralism"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w5q4",
+    "week": 5,
+    "question": "Which memory system is temporal in nature",
+    "options": [
+      "False memory",
+      "Semantic memory",
+      "Memory of facts",
+      "Episodic memory"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w5q5",
+    "week": 5,
+    "question": "Memory of past with emotionally arousing events is known as",
+    "options": [
+      "Short-term memory",
+      "Flashbulb memory",
+      "Eyewitness memory",
+      "Long-term memory"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w5q6",
+    "week": 5,
+    "question": "Encoding and retrieval of information that actually did not happen in past, is known as",
+    "options": [
+      "Repressed memory",
+      "Flashbulb memory",
+      "False memory",
+      "episodic memory"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w5q7",
+    "week": 5,
+    "question": "Which of the following task is responsible for induction of false memory in laboratory conditions",
+    "options": [
+      "Pair associative learning task",
+      "Pursuit rotor task",
+      "Auditory detection task",
+      "Deese-Roediger-McDermott"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w5q8",
+    "week": 5,
+    "question": "What is the correct name for memories for events, experiences and personal information from one's own life",
+    "options": [
+      "Autobiographical memory",
+      "Flashbulb memory",
+      "Implicit memory",
+      "Eyewitness memory"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w5q9",
+    "week": 5,
+    "question": "The \"tip-of-the-tongue\" phenomenon is a problem of",
+    "options": [
+      "Engram",
+      "Retrieval",
+      "Repression",
+      "Storage"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w5q10",
+    "week": 5,
+    "question": "Who proposed the idea that LTM is reconstructive:",
+    "options": [
+      "Frederic Bartlett",
+      "Ulric Neisser",
+      "Elizabeth Loftus",
+      "Marigold Linton"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w6q1",
+    "week": 6,
+    "question": "The memory of facts, knowledge and meaning is",
+    "options": [
+      "Recognition memory",
+      "Semantic memory",
+      "Implicit memory",
+      "Episodic memory"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w6q2",
+    "week": 6,
+    "question": "Collins and Quillian's hierarchical network model would predict that which of the following statements would take the LONGEST time to verify?",
+    "options": [
+      "Boo has a popular Facebook page",
+      "Boo is an animal",
+      "Boo is a dog",
+      "Boo is a living thing"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w6q3",
+    "week": 6,
+    "question": "The word superiority effect is related to the idea of:",
+    "options": [
+      "spreading activation",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w6q4",
+    "week": 6,
+    "question": "Who propose the Hierarchical Semantic Model",
+    "options": [
+      "Collins & Quillinan",
+      "Schacter",
+      "Tulving",
+      "Miller"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w6q5",
+    "week": 6,
+    "question": "The excitation propagation of one node to another associated node in semantic network is",
+    "options": [
+      "Spreading activation",
+      "Node activation",
+      "Network hierarchy",
+      "Semantic association"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w6q6",
+    "week": 6,
+    "question": "Properties and facts are stored at highest level in network model to reduce mental energy, this concept is known as",
+    "options": [
+      "Economic theory",
+      "Semantic network",
+      "Cognitive economy",
+      "Cognitive revolution"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w6q7",
+    "week": 6,
+    "question": "The response is faster for \"Robin is a bird\" instead than \"Turkey is a bird\". It can be explained by",
+    "options": [
+      "Typical instance",
+      "Semantic association",
+      "Typicality effect",
+      "Spreading activation"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w6q8",
+    "week": 6,
+    "question": "Who proposed the ACT model of memory",
+    "options": [
+      "John Watson",
+      "John Anderson",
+      "Collins and Qullins",
+      "Meyer and Schvaneveldt"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w6q9",
+    "week": 6,
+    "question": "The organization of packet of information available in brain which have fixed part and variables is consider as",
+    "options": [
+      "Prototype",
+      "Template",
+      "Schema",
+      "Feature"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w6q10",
+    "week": 6,
+    "question": "Who tells you, what to do and how to behave in restaurant when you go for food",
+    "options": [
+      "Waiter",
+      "Experience",
+      "Rules",
+      "Script"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w7q1",
+    "week": 7,
+    "question": "The class of similar things that shares perceptual, biological, or functional similarities is known as",
+    "options": [
+      "Percept",
+      "Group",
+      "Category",
+      "Concept"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w7q2",
+    "week": 7,
+    "question": "The mental representation of an object, event, or pattern that has stored in it much of the knowledge typically thought relevant to that object, event, or pattern, can be defined as a",
+    "options": [
+      "Category",
+      "Group",
+      "Concept",
+      "Percept"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w7q3",
+    "week": 7,
+    "question": "Which of the following approach need actual individual instance to make a category",
+    "options": [
+      "Exemplar view",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w7q4",
+    "week": 7,
+    "question": "In which of the approach to concepts and categorization, people uses their own knowledge to guide tier classification of objects",
+    "options": [
+      "Classical view",
+      "Porotype view",
+      "Knowledge-based",
+      "Exemplar-based"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w7q5",
+    "week": 7,
+    "question": "Which of the following views are also uses by Schemata view for concept and categorization formation",
+    "options": [
+      "Prototype view",
+      "Exemplar view",
+      "Prototype and Exemplar views",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w7q6",
+    "week": 7,
+    "question": "The dog is an animal, which has 4 legs & tail and is man's best friend. So what is Dog here",
+    "options": [
+      "Category",
+      "Concept",
+      "Knowledge",
+      "Animal"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w7q7",
+    "week": 7,
+    "question": "Possible strategies for concept formation involve",
+    "options": [
+      "Simultaneous Scanning",
+      "Successive Scanning",
+      "Conservative Focusing",
+      "All above"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w7q8",
+    "week": 7,
+    "question": "You might have a \"script\" for",
+    "options": [
+      "what a \"pet\" is",
+      "what happens when you go to the barber/hairstylist",
+      "what a \"cat\" is",
+      "what a classroom looks like."
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w7q9",
+    "week": 7,
+    "question": "Implicit learning is also known as:",
+    "options": [
+      "nominal-kind learning",
+      "nonanalytic concept formation",
+      "knowledge-based concept formation",
+      "analytic concept formation"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w7q10",
+    "week": 7,
+    "question": "Which of the following poses a problem for the prototype view of concepts?",
+    "options": [
+      "an inability to explain why the typicality of a particular instance can depend upon context",
+      "an inability to explain the typicality effect",
+      "an inability to explain why people have a hard time providing strict definitions of their concepts",
+      "an inability to explain why some classifications are easy to make and others are unclear"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w8q1",
+    "week": 8,
+    "question": "The memory technique to make better encoding and recalling/recognizing information is known as",
+    "options": [
+      "Encoding specificity",
+      "Rehearsal",
+      "Mnemonics",
+      "Remembering"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w8q2",
+    "week": 8,
+    "question": "Who proposed relational-organizational hypothesis for encoding of information in LTM",
+    "options": [
+      "Moyer",
+      "Paivio",
+      "Bower",
+      "Brooks"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w8q3",
+    "week": 8,
+    "question": "According to the dual-coding hypothesis of LTM, which of the following coding systems are available to represent information",
+    "options": [
+      "Verbal and Imagery",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w8q4",
+    "week": 8,
+    "question": "According to relational-organizational hypothesis which type of stimuli will help in improving memory",
+    "options": [
+      "Imagery",
+      "Verbal",
+      "Acoustic",
+      "All of above"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w8q5",
+    "week": 8,
+    "question": "Internal processes of mental visualization and visual perception are same, this principle of visual imagery is known as",
+    "options": [
+      "Visual perception",
+      "Spatial equivalence",
+      "Implicit encoding",
+      "Perceptual equivalence"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w8q6",
+    "week": 8,
+    "question": "How many basic principles Finke gave to describes the nature and properties of visual images",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w8q7",
+    "week": 8,
+    "question": "Which of the following property is not related to visual imagery",
+    "options": [
+      "Implicit encoding",
+      "Priming",
+      "Perceptual equivalence",
+      "Structural equivalence",
+      "Spatial equivalence"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w8q8",
+    "week": 8,
+    "question": "When experimenters unconsciously give subtle cues to participants, which influence participant to expect something is referred as",
+    "options": [
+      "Expectancy",
+      "Participant belief",
+      "Tacit knowledge",
+      "Experimenter expectancy effect"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w8q9",
+    "week": 8,
+    "question": "What are the controversies of visual imagery concept",
+    "options": [
+      "Tacit knowledge and demand characteristics",
+      "Picture metaphor",
+      "Propositional theory",
+      "All mentioned"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w8q10",
+    "week": 8,
+    "question": "Mental depiction of parts of our environment special landmarks and their spatial relationship is",
+    "options": [
+      "Cognitive map",
+      "Spatial map",
+      "Mental representation",
+      "Mental map"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w9q1",
+    "week": 9,
+    "question": "Which of the following is NOT a characteristic of language",
+    "options": [
+      "Regular",
+      "Consistent",
+      "Arbitrary",
+      "Discrete"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w9q2",
+    "week": 9,
+    "question": "The study in which various phonemes are combined together to yield meaningful units of language is called",
+    "options": [
+      "Pragmatics",
+      "Phonology",
+      "Semantics",
+      "Morphology"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w9q3",
+    "week": 9,
+    "question": "Smallest meaningful units of language",
+    "options": [
+      "Morpheme",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w9q4",
+    "week": 9,
+    "question": "The study of speech sound and how they are produced is known as",
+    "options": [
+      "Morphology",
+      "Phonology",
+      "Voicing",
+      "Phonetics"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w9q5",
+    "week": 9,
+    "question": "The systematic ways of combining the speech sounds that help us in studying the sounds of language is studied under",
+    "options": [
+      "Phonetics",
+      "Phonology",
+      "Morphology",
+      "Pragmatics"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w9q6",
+    "week": 9,
+    "question": "The smallest unit of sound that makes a meaningful difference in a given language is known as",
+    "options": [
+      "Lexemes",
+      "Morpheme",
+      "Phoneme",
+      "Syntax"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w9q7",
+    "week": 9,
+    "question": "The phoneme restoration effect was first documented by",
+    "options": [
+      "Milner",
+      "Garret",
+      "Warren",
+      "Bierwisch"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w9q8",
+    "week": 9,
+    "question": "The \"given-new\" strategy in text processing was given by",
+    "options": [
+      "Bierwisch",
+      "Just and carpenter",
+      "Kintsch and Keenan",
+      "Haviland and Clark"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w9q9",
+    "week": 9,
+    "question": "A speech act such as \"I promise to study my psychology textbook tonight\" is called a(n):",
+    "options": [
+      "assertive",
+      "expressive",
+      "commissive",
+      "directive"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w9q10",
+    "week": 9,
+    "question": "Some African languages allow two consonants to appear together at the beginning of a word (as in \"Nkomo\"); English does not allow this to occur unless the first consonant is an \"S\" (as in \"skull\"). This example illustrates a difference in the _____ of the two languages.",
+    "options": [
+      "semantics",
+      "phonetics",
+      "phonology",
+      "syntax"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w10q1",
+    "week": 10,
+    "question": "Which of the following is not a type of problem",
+    "options": [
+      "Ill-defined problem",
+      "Routine problem",
+      "Well defined problem",
+      "Narrow problem"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w10q2",
+    "week": 10,
+    "question": "How many types of problems, Marr described",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w10q3",
+    "week": 10,
+    "question": "Behaviorism school of psychology uses which of the following approach to solving the problems",
+    "options": [
+      "Associative learning approach",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w10q4",
+    "week": 10,
+    "question": "Law of effect was given by",
+    "options": [
+      "Wallas",
+      "Skinner",
+      "Wolfgang kohler",
+      "Thorndike"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w10q5",
+    "week": 10,
+    "question": "Which of the school of psychology uses the insight as a problem solving approach",
+    "options": [
+      "Functionalism",
+      "Gestalt psychology",
+      "Behaviorism",
+      "Structuralism"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w10q6",
+    "week": 10,
+    "question": "Which of the following is an example of transformational problem",
+    "options": [
+      "Anagrams",
+      "Tower of hanoi",
+      "Analogy problems",
+      "Escaping form of maze"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w10q7",
+    "week": 10,
+    "question": "\"Creative acts are products of interpersonal, disciplinary and socio-cultural environments\" is defined by",
+    "options": [
+      "Products",
+      "Person",
+      "Process",
+      "Press"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w10q8",
+    "week": 10,
+    "question": "is a very important technique for solving the Towers of Hanoi problem",
+    "options": [
+      "reasoning and analogy",
+      "generate-and-test",
+      "working backward",
+      "means-end-analysis"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w10q9",
+    "week": 10,
+    "question": "The strategy of working backward is most effective when:",
+    "options": [
+      "there are many possible paths to a solution",
+      "the backward path is unique",
+      "the optimal path leads you temporarily away from your goal",
+      "there are clear subgoals before the final goal"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w10q10",
+    "week": 10,
+    "question": "Which of the following is an example of an ill-defined problem?",
+    "options": [
+      "constructing a proof in geometry",
+      "putting together your schedule of classes for next semester",
+      "solving an algebra problem",
+      "solving the Tower of Hanoi problem"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w11q1",
+    "week": 11,
+    "question": "if, someone likes Winnie-the-Pooh, they are a sensitive person. Mary likes Winnie-the-Pooh. Therefore, Mary is a sensitive person. Which of the reasoning can explain it?",
+    "options": [
+      "Deductive reasoning",
+      "Inductive reasoning",
+      "Syllogistic reasoning",
+      "Conditional reasoning"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w11q2",
+    "week": 11,
+    "question": "When general principles or assertions lead to a valid specific conclusion, it will be",
+    "options": [
+      "Inductive reasoning",
+      "Deductive reasoning",
+      "Syllogistic reasoning",
+      "Conditional reasoning"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w11q3",
+    "week": 11,
+    "question": "*(Note: The question text is missing/obscured in the source document)*",
+    "options": [
+      "Inductive reasoning",
+      "Functionalism",
+      "Structuralism",
+      "Behaviorism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w11q4",
+    "week": 11,
+    "question": "Typicality effect and diversity effect are seen in which of the reasoning",
+    "options": [
+      "Inductive reasoning",
+      "Syllogistic reasoning",
+      "Deductive reasoning",
+      "Conditional reasoning"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w11q5",
+    "week": 11,
+    "question": "Who define that, judgment is the human ability to infer, estimate & predict the character of unknown events",
+    "options": [
+      "Hastie & Dawes",
+      "Kahneman",
+      "Baron",
+      "Kahneman & Tversky"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w11q6",
+    "week": 11,
+    "question": "Newell and Simon (1972) proposed",
+    "options": [
+      "Tower of Hanoi",
+      "ACT",
+      "Problem Space",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w11q7",
+    "week": 11,
+    "question": "is the inability to see novel uses of everyday familiar objects",
+    "options": [
+      "Functional fixedness",
+      "Proactive inhibition",
+      "Interference",
+      "None of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w11q8",
+    "week": 11,
+    "question": "Which of the following are the correct basic components of a problem",
+    "options": [
+      "Rules",
+      "problems",
+      "initial state",
+      "Initial state",
+      "goal state",
+      "rules",
+      "obstacles",
+      "rewards",
+      "achievements",
+      "Goal state",
+      "Initial state, goal state, rules, obstacles"
+    ],
+    "correctAnswer": 10,
+    "explanation": ""
+  },
+  {
+    "id": "w11q9",
+    "week": 11,
+    "question": "Syllogisms consists of two",
+    "options": [
+      "Variables",
+      "hypothesis",
+      "Premises",
+      "conclusion",
+      "Heuristics",
+      "function",
+      "None of the above",
+      "Premises, conclusion"
+    ],
+    "correctAnswer": 7,
+    "explanation": ""
+  },
+  {
+    "id": "w11q10",
+    "week": 11,
+    "question": "Ill-defined problems are",
+    "options": [
+      "Clear and solvable",
+      "Fuzzy and abstract",
+      "Full of constraints and obstacles",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w12q1",
+    "week": 12,
+    "question": "When Consumer faced with some type of uncertain choice, then they will make decisions based on",
+    "options": [
+      "Their interest",
+      "Respective probability of outcomes",
+      "Expected utility of outcomes",
+      "Expected utility and respective probabilities of outcomes"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w12q2",
+    "week": 12,
+    "question": "Who proposed the Prospect theory",
+    "options": [
+      "Lichtenstein & Slovic",
+      "Kahneman & Tversky",
+      "Arkes and Blumer",
+      "Clemen"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w12q3",
+    "week": 12,
+    "question": "Decisions are not valued based on the absolute value of the end result, as proposed by the expected utility instead, we value decisions based on the amount of gain or loss from what we have right",
+    "options": [
+      "Expected utility theory",
+      "Prospect theory",
+      "Functionalism",
+      "Structuralism"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w12q4",
+    "week": 12,
+    "question": "Choose the correct option from the following",
+    "options": [
+      "MAUT - Main Attention Utility Technique",
+      "MAUT-Multi Attention Utility Task",
+      "MAUT-Multi Attribute Universal Task",
+      "MAUT - Multi Attribute Utility Theory"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w12q5",
+    "week": 12,
+    "question": "Hsee & Rottenstreich (2004) suggest that in _____ we value things or take decisions by the feelings they evoke",
+    "options": [
+      "Dual process view",
+      "Affective decision-making mode",
+      "Gain Frame",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w12q6",
+    "week": 12,
+    "question": "You are offered a chance to buy a lottery ticket. The probability of winning is 1 in 100. If you win, the prize is $100,000. According to expected value, a \"fair\" price for this lottery ticket would be:",
+    "options": [
+      "$5",
+      "$100",
+      "$1000",
+      "$10"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w12q7",
+    "week": 12,
+    "question": "You have just spent 10 minutes trying to figure out the answer to a single problem on your math quiz. In spite of your lack of success, you continue to struggle, neglecting to continue on to other problems because you've already invested so much time and effort in this problem. You have fallen victim to",
+    "options": [
+      "the anchor effect",
+      "the availability effect",
+      "the framing effect",
+      "the sunk cost effect"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w12q8",
+    "week": 12,
+    "question": "is a mistaken belief that the probability of a given random event such as winning or losing at a game of chance is influenced by previous random events",
+    "options": [
+      "gamblers fallacy",
+      "psychological accounting",
+      "sunk cost",
+      "means end"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w12q9",
+    "week": 12,
+    "question": "Patient Ravi is told that the operation has a 10% chance of failure, whereas patient Manoj is told that the same operation has a 90% chance of success. If Ravi chooses not to have surgery, while Manoj chooses to have the surgery, to what psychological phenomenon could we attribute this outcome?",
+    "options": [
+      "representative heuristic",
+      "framing effect",
+      "availability",
+      "functional fixedness"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w12q10",
+    "week": 12,
+    "question": "Normative models of decision making describe:",
+    "options": [
+      "how we ought to make decisions in realistic circumstances",
+      "what people actually do when they make decisions",
+      "ideal performance under ideal circumstances",
+      "cognitive illusions"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  }
+]
