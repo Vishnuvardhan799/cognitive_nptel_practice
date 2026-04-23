@@ -366,6 +366,13 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   .option-btn { padding: 18px 24px; font-size: 1rem; }
 }
 
+.back-to-top-container { display: flex; justify-content: center; margin-top: 32px; padding-bottom: 20px; }
+.back-to-top-btn {
+  display: flex; align-items: center; gap: 8px; padding: 12px 24px; border-radius: 20px;
+  font-weight: 600; font-size: .9rem; border: 1.5px solid var(--border);
+  background: var(--surface); color: var(--text2); transition: all .25s;
+}
+.back-to-top-btn:hover { border-color: var(--primary); color: var(--primary2); transform: translateY(-2px); box-shadow: 0 4px 16px var(--primary-glow); }
 </style>
 </head>
 <body data-theme="light">
@@ -437,10 +444,16 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
                     </div>
                 </div>
 
-                <button class="start-btn" id="startBtn">
-                    <span class="start-btn-text">Start Quiz</span>
-                    <span class="start-btn-icon">→</span>
-                </button>
+                <div style="display: flex; gap: 16px; width: 100%;">
+                    <button class="start-btn" id="learnBtn" style="background: linear-gradient(135deg, #3b82f6, #2563eb);">
+                        <span class="start-btn-text">Study Mode</span>
+                        <span class="start-btn-icon">📚</span>
+                    </button>
+                    <button class="start-btn" id="startBtn">
+                        <span class="start-btn-text">Start Quiz</span>
+                        <span class="start-btn-icon">→</span>
+                    </button>
+                </div>
             </div>
 
             <div class="landing-footer">
@@ -572,6 +585,45 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
                     <button class="filter-btn" data-filter="skipped">— Skipped</button>
                 </div>
                 <div class="review-list" id="reviewList"></div>
+                <div class="back-to-top-container">
+                    <button class="back-to-top-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+                        <svg width="18" height="18" viewBox="0 0 20 20" fill="none">
+                            <path d="M5 12.5L10 7.5L15 12.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                        Back to Top
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== LEARN SCREEN ===== -->
+    <div id="learnScreen" class="screen">
+        <div class="results-container">
+            <div class="quiz-header" style="margin-bottom: 20px; padding: 0;">
+                <div class="quiz-header-left">
+                    <button class="back-btn" id="learnBackBtn" title="Back to home">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <path d="M12.5 15L7.5 10L12.5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                    <div class="quiz-info">
+                        <span class="quiz-badge" id="learnModeBadge">Learn Mode</span>
+                        <span class="quiz-year-badge" id="learnYearBadge">2026</span>
+                    </div>
+                </div>
+            </div>
+            <div class="review-section">
+                <h3 class="review-title">📚 Study Mode</h3>
+                <div class="review-list" id="learnList"></div>
+                <div class="back-to-top-container">
+                    <button class="back-to-top-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+                        <svg width="18" height="18" viewBox="0 0 20 20" fill="none">
+                            <path d="M5 12.5L10 7.5L15 12.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                        Back to Top
+                    </button>
+                </div>
             </div>
         </div>
     </div>
@@ -8433,6 +8485,7 @@ const QUESTIONS_DB = {
       landing: $("#landingScreen"),
       quiz: $("#quizScreen"),
       results: $("#resultsScreen"),
+      learn: $("#learnScreen")
     };
     weekGrid = $("#weekGrid");
     initTheme();
@@ -8527,10 +8580,12 @@ const QUESTIONS_DB = {
     });
 
     $("#startBtn").addEventListener("click", startQuiz);
+    $("#learnBtn").addEventListener("click", startLearn);
     $("#prevBtn").addEventListener("click", function () { goTo(currentIndex - 1); });
     $("#nextBtn").addEventListener("click", function () { goTo(currentIndex + 1); });
     $("#submitBtn").addEventListener("click", showConfirmModal);
     $("#backBtn").addEventListener("click", function () { showScreen("landing"); });
+    $("#learnBackBtn").addEventListener("click", function () { showScreen("landing"); });
     $("#retryBtn").addEventListener("click", function () { startQuiz(); });
     $("#homeBtn").addEventListener("click", function () { showScreen("landing"); });
     $("#modalCancel").addEventListener("click", function () {
@@ -8863,6 +8918,62 @@ const QUESTIONS_DB = {
     $$(".review-item").forEach(function (item) {
       if (filter === "all") item.style.display = "";
       else item.style.display = item.dataset.status === filter ? "" : "none";
+    });
+  }
+
+  // --- Start learn mode ---
+  function startLearn() {
+    var db = QUESTIONS_DB[selectedYear];
+    if (!db) { alert("Questions for " + selectedYear + " are not available yet."); return; }
+
+    var pool = selectedWeeks.includes("all") ? db : db.filter(function (q) {
+      return selectedWeeks.includes(String(q.week));
+    });
+
+    if (selectedWeeks.includes("all")) {
+      $("#learnModeBadge").textContent = "All Weeks";
+    } else {
+      var sorted = selectedWeeks.map(Number).sort(function(a, b) { return a - b; });
+      $("#learnModeBadge").textContent = "Weeks: " + sorted.join(", ");
+    }
+    $("#learnYearBadge").textContent = selectedYear;
+
+    buildLearnList(pool);
+    showScreen("learn");
+  }
+
+  // --- Build learn list ---
+  function buildLearnList(questions) {
+    var list = $("#learnList");
+    list.innerHTML = "";
+    var letters = ["A", "B", "C", "D"];
+
+    questions.forEach(function (q, i) {
+      var item = document.createElement("div");
+      item.className = "review-item";
+      item.style.borderLeft = "3px solid var(--primary)";
+
+      var correctIndex = q.correctAnswer;
+      if (q.answer !== undefined && typeof correctIndex === "undefined") {
+          correctIndex = q.options.indexOf(q.answer);
+      }
+
+      var optionsHTML = q.options.map(function (opt, oi) {
+        var cls = (oi === correctIndex) ? "is-correct" : "";
+        var marker = (oi === correctIndex) ? "✓" : letters[oi];
+        return '<div class="review-opt ' + cls + '"><span class="opt-marker">' +
+          marker + '</span><span>' + opt + '</span></div>';
+      }).join("");
+
+      item.innerHTML =
+        '<div class="review-q-header">' +
+        '<span class="review-q-num">Question ' + (i + 1) + ' · Week ' + q.week + '</span>' +
+        '</div>' +
+        '<div class="review-q-text">' + q.question + '</div>' +
+        '<div class="review-options">' + optionsHTML + '</div>' +
+        '<div class="review-explanation"><strong>Explanation:</strong> ' +
+        (q.explanation || "No explanation available.") + '</div>';
+      list.appendChild(item);
     });
   }
 
