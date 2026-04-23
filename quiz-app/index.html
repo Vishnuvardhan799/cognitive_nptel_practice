@@ -4425,13 +4425,10 @@ const QUESTIONS_DB = {
       "options": [
         "you have never parked before",
         "you have always parked in the same place",
-        "you have parked frequently",
-        "but in many different spaces",
-        "you parked a year ago",
-        "but not more recently",
-        "you have parked frequently, but in many different spaces"
+        "you have parked frequently, but in many different spaces",
+        "you parked a year ago, but not more recently"
       ],
-      "correctAnswer": 6,
+      "correctAnswer": 2,
       "explanation": ""
     },
     {
@@ -8704,7 +8701,7 @@ const QUESTIONS_DB = {
   function renderQuestion() {
     var q = questions[currentIndex];
     var total = questions.length;
-    var letters = ["A", "B", "C", "D"];
+    var letters = ["A", "B", "C", "D", "E", "F", "G", "H"];
 
     $("#currentQ").textContent = currentIndex + 1;
     $("#progressBar").style.width = ((currentIndex + 1) / total * 100) + "%";
@@ -8870,7 +8867,7 @@ const QUESTIONS_DB = {
   function buildReview(results) {
     var list = $("#reviewList");
     list.innerHTML = "";
-    var letters = ["A", "B", "C", "D"];
+    var letters = ["A", "B", "C", "D", "E", "F", "G", "H"];
 
     if (!document.getElementById("scoreGradDef")) {
       var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
@@ -8946,7 +8943,7 @@ const QUESTIONS_DB = {
   function buildLearnList(questions) {
     var list = $("#learnList");
     list.innerHTML = "";
-    var letters = ["A", "B", "C", "D"];
+    var letters = ["A", "B", "C", "D", "E", "F", "G", "H"];
 
     questions.forEach(function (q, i) {
       var item = document.createElement("div");
