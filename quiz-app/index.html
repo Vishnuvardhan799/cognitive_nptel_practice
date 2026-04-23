@@ -8415,7 +8415,7 @@ const QUESTIONS_DB = {
 
   // --- State ---
   let selectedYear = "2026";
-  let selectedWeek = "all";
+  let selectedWeeks = ["all"];
   let questions = [];
   let currentIndex = 0;
   let userAnswers = {};
@@ -8497,9 +8497,33 @@ const QUESTIONS_DB = {
     weekGrid.addEventListener("click", function (e) {
       var btn = e.target.closest(".week-btn");
       if (!btn) return;
-      $$(".week-btn").forEach(function (b) { b.classList.remove("active"); });
-      btn.classList.add("active");
-      selectedWeek = btn.dataset.week;
+      var week = btn.dataset.week;
+
+      if (week === "all") {
+        selectedWeeks = ["all"];
+        $$(".week-btn").forEach(function (b) { b.classList.remove("active"); });
+        btn.classList.add("active");
+      } else {
+        if (selectedWeeks.includes("all")) {
+          selectedWeeks = [];
+          var allBtn = $(".week-btn.all-btn");
+          if (allBtn) allBtn.classList.remove("active");
+        }
+
+        if (selectedWeeks.includes(week)) {
+          selectedWeeks = selectedWeeks.filter(function (w) { return w !== week; });
+          btn.classList.remove("active");
+        } else {
+          selectedWeeks.push(week);
+          btn.classList.add("active");
+        }
+
+        if (selectedWeeks.length === 0) {
+          selectedWeeks = ["all"];
+          var allBtn = $(".week-btn.all-btn");
+          if (allBtn) allBtn.classList.add("active");
+        }
+      }
     });
 
     $("#startBtn").addEventListener("click", startQuiz);
@@ -8545,8 +8569,8 @@ const QUESTIONS_DB = {
     var db = QUESTIONS_DB[selectedYear];
     if (!db) { alert("Questions for " + selectedYear + " are not available yet."); return; }
 
-    var pool = selectedWeek === "all" ? db : db.filter(function (q) {
-      return q.week === parseInt(selectedWeek);
+    var pool = selectedWeeks.includes("all") ? db : db.filter(function (q) {
+      return selectedWeeks.includes(String(q.week));
     });
 
     // Deep copy and normalize so we can shuffle options safely
@@ -8574,7 +8598,12 @@ const QUESTIONS_DB = {
     currentIndex = 0;
     userAnswers = {};
 
-    $("#quizBadge").textContent = selectedWeek === "all" ? "All Weeks" : "Week " + selectedWeek;
+    if (selectedWeeks.includes("all")) {
+      $("#quizBadge").textContent = "All Weeks";
+    } else {
+      var sorted = selectedWeeks.map(Number).sort(function(a, b) { return a - b; });
+      $("#quizBadge").textContent = "Weeks: " + sorted.join(", ");
+    }
     $("#quizYearBadge").textContent = selectedYear;
     $("#totalQ").textContent = questions.length;
 
@@ -8600,9 +8629,20 @@ const QUESTIONS_DB = {
 
   // --- Go to question ---
   function goTo(idx) {
-    if (idx < 0 || idx >= questions.length) return;
-    currentIndex = idx;
-    renderQuestion();
+    if (idx < 0 || idx >= questions.length || idx === currentIndex) return;
+    
+    var card = $("#questionCard");
+    card.style.transition = "opacity 0.2s ease, transform 0.2s ease";
+    card.style.opacity = "0";
+    card.style.transform = "translateY(-10px)";
+    
+    setTimeout(function() {
+      currentIndex = idx;
+      card.style.transition = "";
+      card.style.opacity = "";
+      card.style.transform = "";
+      renderQuestion();
+    }, 200);
   }
 
   // --- Render question ---
@@ -8651,7 +8691,16 @@ const QUESTIONS_DB = {
   // --- Select option ---
   function selectOption(idx) {
     userAnswers[currentIndex] = idx;
-    renderQuestion();
+    
+    $$("#optionsList .option-btn").forEach(function (btn, i) {
+      if (i === idx) btn.classList.add("selected");
+      else btn.classList.remove("selected");
+    });
+
+    var dots = $$(".dot");
+    if (dots.length > currentIndex) {
+      dots[currentIndex].classList.add("answered");
+    }
   }
 
   // --- Confirm modal ---
@@ -8699,11 +8748,60 @@ const QUESTIONS_DB = {
     $("#skippedCount").textContent = skipped;
     $("#scoreSubtitle").textContent = "You scored " + correct + " out of " + total + " (" + pct + "%)";
 
-    if (pct >= 90) $("#scoreTitle").textContent = "🏆 Outstanding!";
-    else if (pct >= 70) $("#scoreTitle").textContent = "🎉 Great Job!";
-    else if (pct >= 50) $("#scoreTitle").textContent = "👍 Good Effort!";
-    else if (pct >= 30) $("#scoreTitle").textContent = "📖 Keep Studying!";
-    else $("#scoreTitle").textContent = "💪 Don't Give Up!";
+    var quotes;
+    if (pct === 100) {
+      quotes = [
+        "🏆 Absolute Legend!", 
+        "🤯 Einstein is shaking right now!", 
+        "👑 Bro has an IQ of 200", 
+        "🔥 Flawless Victory!",
+        "🗿 Gigachad energy spotted.",
+        "🚀 Harvard wants to know your location.",
+        "✨ Bro is the chosen one.",
+        "🥶 Ice in his veins. 100%."
+      ];
+    } else if (pct >= 80) {
+      quotes = [
+        "😎 Not bad, nerd!", 
+        "🎉 Almost perfect, don't choke next time!", 
+        "🧠 Big brain energy detected!",
+        "🔥 Bro is cooking, just missed a sprinkle.",
+        "🤏 So close to greatness, yet so far.",
+        "👏 Still smarter than 90% of the internet."
+      ];
+    } else if (pct >= 50) {
+      quotes = [
+        "😐 Perfectly balanced, as all things should be.", 
+        "📉 Bro barely survived.", 
+        "🥱 Average... do better next time.",
+        "🤷‍♂️ C's get degrees, am I right?",
+        "🐢 Slow and steady wins the... nevermind.",
+        "🤡 Bro is literally an NPC right now."
+      ];
+    } else if (pct >= 20) {
+      quotes = [
+        "💀 Did you guess all of them?", 
+        "🤡 Bro is fighting for his life.", 
+        "😬 Oof... that's rough buddy.",
+        "📉 My brother in Christ, read a book.",
+        "🚑 Someone call an ambulance for this score.",
+        "🦧 A monkey pressing random buttons could do better."
+      ];
+    } else {
+      quotes = [
+        "💀 Work hard bruh, this is embarrassing.", 
+        "🗑️ Absolute garbage score.", 
+        "😭 Bro didn't even read the questions.", 
+        "🙈 My pet rock could score higher.",
+        "🛑 Please uninstall the internet.",
+        "🍟 Do you want fries with that score?",
+        "🧠 Error 404: Brain not found.",
+        "🗿 Bro is speedrunning failure."
+      ];
+    }
+    
+    var randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+    $("#scoreTitle").textContent = randomQuote;
 
     buildReview(results);
     showScreen("results");
