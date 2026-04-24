@@ -1,0 +1,871 @@
+## Assessment 01: History and Research Methods
+* **1) The belief that most of our abilities and tendencies are with us from birth is known as:**
+    * nativism
+    * empiricism
+    * associationism
+    * introspection
+    * [cite_start]**Correct Answer:** nativism [cite: 159, 166]
+
+* **2) A traditional school within psychology that had as its goal the identification of the simplest possible units of the mind:**
+    * functionalism
+    * structuralism
+    * behaviorism
+    * componentialism
+    * [cite_start]**Correct Answer:** structuralism [cite: 168, 176]
+
+* **3) The major disadvantage of naturalistic observation is the lack of:**
+    * experimental control
+    * ecological validity
+    * training given to the participants
+    * both internal and ecological validity
+    * [cite_start]**Correct Answer:** experimental control [cite: 177, 191]
+
+* **4) A traditional school within psychology that emphasized the adaptation of the organism to its environment, and focused on questions such as what role a particular system served for an organism:**
+    * functionalism
+    * structuralism
+    * behaviorism
+    * connectionism
+    * [cite_start]**Correct Answer:** functionalism [cite: 198, 205]
+
+* **5) All connectionist models share the assumption that:**
+    * processing occurs serially
+    * knowledge is stored in various storehouses
+    * a central processor directs the flow of information
+    * processing occurs in parallel
+    * [cite_start]**Correct Answer:** processing occurs in parallel [cite: 206, 214]
+
+* **6) Wilhelm Wundt and his students used a technique known as ________ to study mental states:**
+    * behaviorism
+    * intensity measurement
+    * componentialism
+    * introspection
+    * [cite_start]**Correct Answer:** introspection [cite: 215, 226]
+
+* **7) Which of the following is NOT an example of a cognitive process?**
+    * attention
+    * perception
+    * reflex
+    * recognition
+    * [cite_start]**Correct Answer:** reflex [cite: 227, 236]
+
+* **8) The school of psychology known as functionalism, which emphasized the purposes of the mind's operations, was founded by:**
+    * Wilhelm Wundt
+    * John Watson
+    * William James
+    * Edward Titchener
+    * [cite_start]**Correct Answer:** William James [cite: 237, 246]
+
+* **9) The belief that psychological phenomena cannot be reduced to simple elements but must be studied in their entirety is central to the school known as:**
+    * structuralism
+    * Gestalt psychology
+    * functionalism
+    * behaviorism
+    * [cite_start]**Correct Answer:** Gestalt psychology [cite: 247, 255]
+
+* **10) The field of ________ developed during World War II to study such practical questions as how to design aircraft that were safer for human beings to operate:**
+    * psycholinguistics
+    * human factors engineering
+    * Gestalt psychology
+    * neuroscience
+    * [cite_start]**Correct Answer:** human factors engineering [cite: 256, 265]
+
+---
+
+## Assessment 02: Object Perception and Recognition
+* **1) We see the figure below as a set of columns rather than rows because of the Gestalt principle of:**
+    * proximity
+    * similarity
+    * closure
+    * common fate
+    * [cite_start]**Correct Answer:** proximity [cite: 283, 306]
+
+* **2) A process of perception, beginning with small bits of information gathered from the environment and put together in various ways to form a percept, would be described as:**
+    * bottom-up processing
+    * top-down processing
+    * theory-driven processing
+    * template matching
+    * [cite_start]**Correct Answer:** bottom-up processing [cite: 307, 314]
+
+* **3) A friend is walking towards you and as he comes closer his retinal image gets bigger and bigger. You however don't see your friend growing in size. This is an example of:**
+    * pattern recognition
+    * bottom-up processing
+    * size constancy
+    * figure-ground organization
+    * [cite_start]**Correct Answer:** size constancy [cite: 315, 327]
+
+* **4) We see the figure below as a set of rows rather than columns because of the Gestalt principle of:**
+    * proximity
+    * similarity
+    * closure
+    * common fate
+    * [cite_start]**Correct Answer:** similarity [cite: 333, 341]
+
+* **5) Which of the following represents a good example of a proximal stimulus?**
+    * book on a shelf
+    * a tree in your yard
+    * a building on the horizon
+    * the retinal image formed by a tree
+    * [cite_start]**Correct Answer:** the retinal image formed by a tree [cite: 342, 350]
+
+* **6) The meaningful interpretation of a proximal stimulus is called the:**
+    * percept
+    * sensation
+    * distal stimulus
+    * retinal image
+    * [cite_start]**Correct Answer:** percept [cite: 351, 361]
+
+* **7) The segregation of a whole display into objects and background is known as:**
+    * size constancy
+    * retinal imagery
+    * bottom-up processing
+    * figure-ground organization
+    * [cite_start]**Correct Answer:** figure-ground organization [cite: 362, 370]
+
+* **8) All Gestalt principles follow the law of:**
+    * closure
+    * good continuation
+    * Prägnanz
+    * common fate
+    * [cite_start]**Correct Answer:** Prägnanz [cite: 371, 379]
+
+* **9) ________ are to visual perception what phonemes are to language, according to Biederman:**
+    * Receptons
+    * Retinas
+    * Distal stimuli
+    * Geons
+    * [cite_start]**Correct Answer:** Geons [cite: 380, 391]
+
+* **10) Gibson's theory of direct perception is in direct opposition to the ________ approach to perception:**
+    * connectionist
+    * constructivist
+    * bottom-up
+    * Gestalt
+    * [cite_start]**Correct Answer:** constructivist [cite: 392, 400]
+
+---
+
+## Assessment 03: Attentional Processes
+* **1) The ________ theory of attention states that there is a very limited amount of information that can be attended to at one time; unattended information is blocked out:**
+    * filter
+    * attenuation
+    * schema
+    * cocktail party
+    * [cite_start]**Correct Answer:** filter [cite: 426, 435]
+
+* **2) According to Treisman, people tend to process:**
+    * only to the level of physical characteristics
+    * only to the level of linguistic characteristics, separating it into words
+    * at a semantic level, analyzing for meaning most of the time
+    * only as much as is necessary to separate the attended from the unattended message
+    * [cite_start]**Correct Answer:** only as much as is necessary to separate the attended from the unattended message [cite: 436, 451]
+
+* **3) According to ________ theory, we never actually acquire unattended material at all:**
+    * schema
+    * bottleneck
+    * attenuation
+    * filter
+    * [cite_start]**Correct Answer:** schema [cite: 452, 468]
+
+* **4) Treisman's theory argues that "unattended" information is actually:**
+    * blocked by a mental filter
+    * attenuated but not entirely blocked
+    * never acquired in the first place
+    * processed to the level of meaning, then repressed
+    * [cite_start]**Correct Answer:** attenuated but not entirely blocked [cite: 469, 477]
+
+* **5) Greater effort or concentration results in better performance on:**
+    * all tasks
+    * tasks that require resource-limited processing
+    * tasks that are data-limited
+    * tasks that require vigilance
+    * [cite_start]**Correct Answer:** tasks that require resource-limited processing [cite: 478, 488]
+
+* **6) In Kahneman's model of attention, allocation of mental resources is affected by preferences for certain kinds of tasks over others. These preferences are known as:**
+    * enduring dispositions
+    * arousal states
+    * momentary intentions
+    * late selection preferences
+    * [cite_start]**Correct Answer:** enduring dispositions [cite: 489, 497]
+
+* **7) When listening to a conversation, your attention is momentarily diverted when you hear your name spoken in a different conversation across the room. This is an example of the:**
+    * filter effect
+    * dichotic listening phenomenon
+    * cocktail party effect
+    * attenuation effect
+    * [cite_start]**Correct Answer:** cocktail party effect [cite: 498, 507]
+
+* **8) Treisman's feature integration theory argues that:**
+    * we perceive objects in two distinct stages
+    * we can only process one piece of information at a time
+    * we have a flexible capacity for processing information
+    * controlled processes do not interfere with each other the way automatic processes do
+    * [cite_start]**Correct Answer:** we perceive objects in two distinct stages [cite: 508, 516]
+
+* **9) In a ________ task, a person listens to an audiotape and hears two separate messages presented simultaneously to the left and right ears:**
+    * filter
+    * dichotic listening
+    * bionic listening
+    * sustained attention
+    * [cite_start]**Correct Answer:** dichotic listening [cite: 519, 528]
+
+* **10) The word "cat" is ________ by the phrase "The dog chased the...". That is, the word cat is especially ready to be recognized or attended to:**
+    * filtered
+    * attenuated
+    * primed
+    * suggested
+    * [cite_start]**Correct Answer:** primed [cite: 529, 536]
+
+---
+
+## Assessment 04: Memory Introduction
+* **1) The icon is said to be characterized by all of the following EXCEPT:**
+    * It holds information in a relatively unprocessed form
+    * It lasts about 20 seconds
+    * It can be "erased" by stimuli that are presented immediately afterward
+    * It can hold more information than can be reported
+    * [cite_start]**Correct Answer:** It lasts about 20 seconds [cite: 575, 582]
+
+* **2) Encoding occurs when:**
+    * information is presented to our senses
+    * information is translated into a form that other cognitive processes can use
+    * information is stored over a period of time
+    * information is called back from storage
+    * [cite_start]**Correct Answer:** information is translated into a form that other cognitive processes can use [cite: 583, 590]
+
+* **3) Information is held in short-term memory for:**
+    * sensory memory
+    * short-term memory
+    * long-term memory
+    * secondary memory
+    * [cite_start]**Correct Answer:** 20 to 30 seconds [cite: 591, 597]
+
+* **4) Information such as the name of the person who sat in front of you in the fifth grade is stored in:**
+    * sensory memory
+    * short-term memory
+    * working memory
+    * long-term memory
+    * [cite_start]**Correct Answer:** long-term memory [cite: 598, 605]
+
+* **5) Information is stored in iconic memory for:**
+    * less than 1 second
+    * 5-10 seconds
+    * about 20 seconds
+    * up to 1 year
+    * [cite_start]**Correct Answer:** less than 1 second [cite: 606, 614]
+
+* **6) Information in short-term memory is assumed to be coded primarily by:**
+    * sound
+    * meaning
+    * visual appearance
+    * both sound and meaning
+    * [cite_start]**Correct Answer:** sound [cite: 615, 623]
+
+* **7) Retrieval involves:**
+    * the activation of the senses
+    * the translation of information into a form that can be stored
+    * the storage of information over time
+    * the calling to mind of previously stored information
+    * [cite_start]**Correct Answer:** the calling to mind of previously stored information [cite: 624, 632]
+
+* **8) When information is first translated into a form that other cognitive processes can use, we say that ________ has occurred:**
+    * retrieval
+    * storage
+    * forgetting
+    * encoding
+    * [cite_start]**Correct Answer:** encoding [cite: 633, 651]
+
+* **9) When we cannot retrieve information from memory, we say that ________ has occurred:**
+    * forgetting
+    * a memory trace
+    * sensory decay
+    * encoding failure
+    * [cite_start]**Correct Answer:** forgetting [cite: 652, 660]
+
+* **10) Words from the beginning of a list are more likely to be recalled than words from the middle of the list. This phenomenon is known as the ________ effect:**
+    * recency
+    * primacy
+    * forgetting
+    * interference
+    * [cite_start]**Correct Answer:** primacy [cite: 663, 671]
+
+---
+
+## Assessment 05: Long Term Memory
+* **1) Ebbinghaus is associated with which of the following in the study of memory?**
+    * nonsense syllables
+    * college students as participants
+    * memory for folktales
+    * creation of false memories
+    * [cite_start]**Correct Answer:** nonsense syllables [cite: 697, 704]
+
+* **2) Techniques designed to improve memory, often involving the use of visual imagery, are called:**
+    * mnemonics
+    * eidetics
+    * leanics
+    * enhancers
+    * [cite_start]**Correct Answer:** mnemonics [cite: 705, 728]
+
+* **3) Bower claimed that a person would recall more information if he/she were in the same mood at recall time as at encoding time. This phenomenon is referred to as:**
+    * mood-dependent memory
+    * state-dependent memory
+    * the spacing effect
+    * the context effect
+    * [cite_start]**Correct Answer:** mood-dependent memory [cite: 729, 737]
+
+* **4) The code in long-term memory is based on:**
+    * sound
+    * visual imagery
+    * meaning
+    * both sound and visual imagery
+    * [cite_start]**Correct Answer:** meaning [cite: 738, 745]
+
+* **5) Proactive interference refers to the fact that:**
+    * new material can disrupt the recall of previously learned material
+    * previously learned material can disrupt the learning of new material
+    * the passage of time leads to memory decay
+    * active interference can strengthen a memory trace
+    * [cite_start]**Correct Answer:** previously learned material can disrupt the learning of new material [cite: 746, 756]
+
+* **6) Learning a rhyme that begins "One is a bun, two is a shoe" is part of the mnemonic technique called the:**
+    * method of loci
+    * technique of interacting images
+    * keyword method
+    * pegword method
+    * [cite_start]**Correct Answer:** pegword method [cite: 757, 766]
+
+* **7) Psychologists believe that the capacity of long-term memory is:**
+    * unlimited
+    * 7±2 items
+    * 18 items
+    * 5000 items
+    * [cite_start]**Correct Answer:** unlimited [cite: 767, 776]
+
+* **8) Retroactive interference occurs when ________ information interferes with ________ information in memory:**
+    * old, new
+    * new, old
+    * vivid, dull
+    * visual, auditory
+    * [cite_start]**Correct Answer:** new, old [cite: 777, 786]
+
+* **9) Your memory of your first college lecture would be an example of:**
+    * semantic memory
+    * episodic memory
+    * implicit memory
+    * working memory
+    * [cite_start]**Correct Answer:** episodic memory [cite: 787, 795]
+
+* **10) Your memory for how to ride a bicycle is an example of ________ memory:**
+    * explicit
+    * implicit
+    * declarative
+    * procedural
+    * [cite_start]**Correct Answer:** procedural [cite: 796, 804]
+
+---
+
+## Assessment 06: Memory of General Knowledge
+* **1) The word superiority effect is related to the idea of:**
+    * cognitive economy
+    * schemata
+    * typicality
+    * spreading activation
+    * [cite_start]**Correct Answer:** spreading activation [cite: 844, 852]
+
+* **2) Which of the following is NOT one of the memory systems postulated by ACT?**
+    * semantic memory
+    * declarative memory
+    * working memory
+    * procedural memory
+    * [cite_start]**Correct Answer:** semantic memory [cite: 853, 860]
+
+* **3) According to Anderson, procedural memory represents information as:**
+    * words
+    * pictures
+    * production rules
+    * words and pictures
+    * [cite_start]**Correct Answer:** production rules [cite: 861, 868]
+
+* **4) According to research by Collins and Quillian, the statement "Siamese cats have blue eyes" will be verified:**
+    * slower than "Siamese cats give birth to live young"
+    * faster than "Siamese cats give birth to live young"
+    * in the same amount of time as "Siamese cats give birth to live young"
+    * slower than "Siamese cats have tails"
+    * [cite_start]**Correct Answer:** faster than "Siamese cats give birth to live young" [cite: 869, 882]
+
+* **5) According to ACT models, ________ memory represents information in if-then production rules:**
+    * working
+    * procedural
+    * episodic
+    * declarative
+    * [cite_start]**Correct Answer:** procedural [cite: 883, 892]
+
+* **6) A ________ is a mental representation of some object, event, or pattern:**
+    * category
+    * script
+    * concept
+    * memory
+    * [cite_start]**Correct Answer:** concept [cite: 893, 901]
+
+* **7) According to the notion of cognitive economy, a characteristic like "has wings" would be stored along with which of the following semantic memory nodes:**
+    * bird
+    * ostrich
+    * robin
+    * humming bird
+    * [cite_start]**Correct Answer:** bird [cite: 903, 909]
+
+* **8) Studies of semantic memory have shown that in a lexical decision task, people are faster at responding to the stimulus "bread" if it is paired with a stimulus such as:**
+    * "rancid"
+    * "dog"
+    * "island"
+    * "butter"
+    * [cite_start]**Correct Answer:** "butter" [cite: 910, 917]
+
+* **9) Which of the following would be a part of your procedural memory system?**
+    * knowing that the Baseball Hall of Fame is in Cooperstown, New York
+    * knowing the lifetime batting average of Ted Williams
+    * knowing how to swing a baseball bat
+    * being able to remember the ball and strike count of the current pitch
+    * [cite_start]**Correct Answer:** knowing how to swing a baseball bat [cite: 918, 926]
+
+* **10) A schema for a routine event, such as going to the dentist, is called a:**
+    * concept
+    * category
+    * exemplar
+    * script
+    * [cite_start]**Correct Answer:** script [cite: 927, 937]
+
+---
+
+## Assessment 07: Concept Formation
+* **1) "Characteristic features" and "family resemblance" are important aspects of the ________ view of concepts:**
+    * classical
+    * prototype
+    * exemplar
+    * schema
+    * [cite_start]**Correct Answer:** prototype [cite: 975, 981]
+
+* **2) According to the ________ view of concepts, people categorize new instances by comparing them to representations of previously stored instances:**
+    * classical
+    * prototype
+    * exemplar
+    * schema
+    * [cite_start]**Correct Answer:** exemplar [cite: 982, 992]
+
+* **3) Implicit learning is also known as:**
+    * analytic concept formation
+    * nonanalytic concept formation
+    * knowledge-based concept formation
+    * nominal-kind learning
+    * [cite_start]**Correct Answer:** nonanalytic concept formation [cite: 993, 1000]
+
+* **4) A schema for a routine event, such as going to the dentist, is called a:**
+    * concept
+    * category
+    * exemplar
+    * script
+    * [cite_start]**Correct Answer:** script [cite: 1001, 1007]
+
+* **5) The ________ view of concepts argues that a person uses his/her theories about the way the world works to justify the classification of instances in the same category:**
+    * classical
+    * prototype
+    * exemplar
+    * knowledge-based
+    * [cite_start]**Correct Answer:** knowledge-based [cite: 1008, 1022]
+
+* **6) If "soda" is a basic-level category, then ________ would be a subordinate level:**
+    * soft drink
+    * beverage
+    * drink
+    * Coca-Cola
+    * [cite_start]**Correct Answer:** Coca-Cola [cite: 1023, 1033]
+
+* **7) Categories are mental representations of concepts:**
+    * True
+    * False
+    * [cite_start]**Correct Answer:** False [cite: 1034, 1039]
+
+* **8) A ________ can be defined as a class of similar things that share either an essential core, or some similarity in perceptual, biological, or functional properties:**
+    * category
+    * concept
+    * script
+    * schema
+    * [cite_start]**Correct Answer:** category [cite: 1040, 1052]
+
+* **9) Which of the following is NOT TRUE of the classical view of concepts?**
+    * It proposes that concepts are mentally represented by lists of features
+    * It assumes that membership in a category is clear-cut
+    * It accurately predicts the typicality effect
+    * "Necessary" and "sufficient" features play an important role in the theory
+    * [cite_start]**Correct Answer:** It accurately predicts the typicality effect [cite: 1053, 1061]
+
+* **10) Which of the following is a good example of a superordinate level of categorization?**
+    * apple
+    * banana
+    * Fuji apple
+    * Fruit
+    * [cite_start]**Correct Answer:** Fruit [cite: 1062, 1071]
+
+---
+
+## Assessment 08: Visual and Spatial Memory
+* **1) Paivio's ________ hypothesis argues that long-term memory contains two separate systems that represent information in verbal and visual forms, respectively:**
+    * picture-word
+    * dual code
+    * visuo-verbal
+    * relational-organizational
+    * [cite_start]**Correct Answer:** dual code [cite: 1091, 1100]
+
+* **2) The relational-organizational hypothesis is supported by:**
+    * the effectiveness of the method of loci
+    * the fact that concrete words are recalled better than abstract words
+    * the fact that noninteractive images do not facilitate recall whereas interactive images do facilitate recall
+    * the effectiveness of the pegword method
+    * [cite_start]**Correct Answer:** the fact that noninteractive images do not facilitate recall whereas interactive images do facilitate recall [cite: 1101, 1117]
+
+* **3) Forming a visual image and then moving from one location on the image to another is known as:**
+    * symbolic distance
+    * imaginal scanning
+    * mnemonic movement
+    * heuristic distortion
+    * [cite_start]**Correct Answer:** imaginal scanning [cite: 1130, 1137]
+
+* **4) Which is NOT one of Finke's principles of visual imagery?**
+    * perceptual equivalence
+    * spatial equivalence
+    * structural equivalence
+    * temporal equivalence
+    * [cite_start]**Correct Answer:** temporal equivalence [cite: 1138, 1145]
+
+* **5) A propositional representation is thought to be ________ in nature:**
+    * verbal
+    * visual
+    * both verbal and visual
+    * neither verbal nor visual
+    * [cite_start]**Correct Answer:** neither verbal nor visual [cite: 1146, 1154]
+
+* **6) Which of the following methods would most help you to remember the word pair "elephant-cigar"?**
+    * repeating the word "cigar" over and over while visualizing an elephant
+    * repeating both words over and over to yourself
+    * visualizing an elephant and a cigar, not touching each other
+    * visualizing an elephant smoking a cigar
+    * [cite_start]**Correct Answer:** visualizing an elephant smoking a cigar [cite: 1155, 1163]
+
+* **7) The dual coding hypothesis states that recall will be best when items are coded:**
+    * visually
+    * verbally
+    * both visually and verbally
+    * with two distinct visual images
+    * [cite_start]**Correct Answer:** both visually and verbally [cite: 1164, 1172]
+
+* **8) Images can prime the visual pathway, making it easier to detect a faint stimulus. This is an example of:**
+    * perceptual equivalence
+    * spatial equivalence
+    * structural equivalence
+    * transformational equivalence
+    * [cite_start]**Correct Answer:** perceptual equivalence [cite: 1173, 1186]
+
+* **9) When the experimental task itself "cues" the subject about how to behave, the task is said to have:**
+    * internal validity
+    * demand characteristics
+    * transformational equivalence
+    * implicit encoding
+    * [cite_start]**Correct Answer:** demand characteristics [cite: 1187, 1196]
+
+* **10) Participants doing mental imagery tasks tend to show brain activity in the:**
+    * temporal lobe
+    * parietal lobe
+    * frontal lobe
+    * occipital lobe
+    * [cite_start]**Correct Answer:** occipital lobe [cite: 1197, 1205]
+
+---
+
+## Assessment 09: Human Language Skills
+* **1) The study of the ways in which sounds can be combined in any given language is called:**
+    * phonology
+    * morphology
+    * syntax
+    * grammar
+    * [cite_start]**Correct Answer:** phonology [cite: 1244, 1252]
+
+* **2) The branch of linguistics devoted to the study of meaning:**
+    * phonetics
+    * semantics
+    * morphology
+    * pragmatics
+    * [cite_start]**Correct Answer:** semantics [cite: 1253, 1260]
+
+* **3) The sentence "A turkey sandwich can read a book" is an example of:**
+    * a self-contradiction
+    * ambiguity
+    * an anomaly
+    * synonymy
+    * [cite_start]**Correct Answer:** an anomaly [cite: 1261, 1269]
+
+* **4) Bird songs and bee dances are not considered to be languages because:**
+    * they do not use words
+    * they do not have a formal grammar
+    * they cannot express infinite combinations of ideas
+    * they do not have a permanent (written) form
+    * [cite_start]**Correct Answer:** they cannot express infinite combinations of ideas [cite: 1270, 1286]
+
+* **5) The underlying knowledge that allows people to produce and comprehend their language is called:**
+    * linguistic performance
+    * linguistic competence
+    * linguistic production
+    * grammatical behavior
+    * [cite_start]**Correct Answer:** linguistic competence [cite: 1287, 1296]
+
+* **6) I saw a bat in the corner. Does "bat" refer to a baseball bat, or a flying mammal? This confusion illustrates a problem of:**
+    * ambiguity
+    * anomaly
+    * synonymy
+    * self-contradiction
+    * [cite_start]**Correct Answer:** ambiguity [cite: 1297, 1307]
+
+* **7) Infinite combinations of ideas can be expressed in language. In other words, language is:**
+    * regular
+    * interpersonal
+    * productive
+    * referential
+    * [cite_start]**Correct Answer:** productive [cite: 1308, 1316]
+
+* **8) The smallest unit of language that carries a consistent meaning is called a:**
+    * feature
+    * phoneme
+    * phonetic
+    * morpheme
+    * [cite_start]**Correct Answer:** morpheme [cite: 1317, 1325]
+
+* **9) Did she say "many" or "men knee"? This type of ambiguity is referred to as:**
+    * phonetic
+    * lexical
+    * syntactic
+    * semantic
+    * [cite_start]**Correct Answer:** phonetic [cite: 1326, 1337]
+
+* **10) "George is not tall enough to ride the roller coaster" "George is too short to ride the roller coaster." These sentences are related through:**
+    * ambiguity
+    * entailment
+    * synonymy
+    * anomaly
+    * [cite_start]**Correct Answer:** synonymy [cite: 1338, 1348]
+
+---
+
+## Assessment 10: Thought Process and Problem Solving
+* **1) A ________ problem has a clear goal, a small set of starting information, and rules about how to attain the goal:**
+    * classic
+    * laboratory
+    * well-defined
+    * introspective
+    * [cite_start]**Correct Answer:** well-defined [cite: 1372, 1380]
+
+* **2) The General Problem Solver (GPS) is a computer program that solves problems in crypt arithmetic and logic using:**
+    * means-end analysis
+    * generate-and-test
+    * reasoning by analogy
+    * introspection
+    * [cite_start]**Correct Answer:** means-end analysis [cite: 1381, 1400]
+
+* **3) A tendency to adopt a certain framework, strategy, or procedure, which can become an obstacle to successful problem solving, is called:**
+    * mental set
+    * functional fixedness
+    * well-defined thinking
+    * ill-defined thinking
+    * [cite_start]**Correct Answer:** mental set [cite: 1401, 1408]
+
+* **4) Which of the following is an example of an ill-defined problem?**
+    * constructing a proof in geometry
+    * solving an algebra problem
+    * solving the Tower of Hanoi problem
+    * putting together your schedule of classes for next semester
+    * [cite_start]**Correct Answer:** putting together your schedule of classes for next semester [cite: 1409, 1424]
+
+* **5) When one recalls the solution to an old problem and uses it to solve a new, similarly structured problem, one has reasoned by:**
+    * introspection
+    * analysis
+    * analogy
+    * backtracking
+    * [cite_start]**Correct Answer:** analogy [cite: 1425, 1434]
+
+* **6) Experts in solving physics problems:**
+    * tend to represent information more superficially than novices do
+    * tend to organize problems in terms of physics principles
+    * tend to organize problems in terms of objects mentioned in the problem
+    * spend less time analyzing a problem than novices do
+    * [cite_start]**Correct Answer:** tend to organize problems in terms of physics principles [cite: 1435, 1444]
+
+* **7) ________ is defined as "going beyond the information given":**
+    * Problem-solving
+    * Reasoning
+    * Decision making
+    * Thinking
+    * [cite_start]**Correct Answer:** Thinking [cite: 1446, 1454]
+
+* **8) ________ thinking begins with a clear starting point and has a specific goal:**
+    * Focused
+    * Unfocused
+    * Intelligent
+    * Puzzled
+    * [cite_start]**Correct Answer:** Focused [cite: 1455, 1463]
+
+* **9) ________ is a very important technique for solving the Towers of Hanoi problem:**
+    * Means-end analysis
+    * Generate-and-test
+    * Working backward
+    * Reasoning by analogy
+    * [cite_start]**Correct Answer:** Working backward [cite: 1466, 1476]
+
+* **10) The string problem often generates ________ when participants do not think to use the screwdriver as a pendulum:**
+    * functional fixedness
+    * mental set
+    * incomplete representations
+    * reasoning by analogy
+    * [cite_start]**Correct Answer:** functional fixedness [cite: 1477, 1485]
+
+---
+
+## Assessment 11: Reasoning
+* **1) If performed correctly, deductive reasoning can be said to have ________. This means that it is impossible for the premises to be true and the conclusion to be false:**
+    * inductive strength
+    * deductive strength
+    * inductive validity
+    * deductive validity
+    * [cite_start]**Correct Answer:** deductive validity [cite: 1522, 1529]
+
+* **2) When Wason's four-card task is replaced with an everyday problem about checking the identification of people who are drinking Coke and beer:**
+    * people still neglect modus tollens in their responses
+    * people turn over all four cards instead of the two that are necessary and sufficient
+    * people turn over only one card instead of the two that are necessary and sufficient
+    * about 75% of participants solve the problem correctly
+    * [cite_start]**Correct Answer:** about 75% of participants solve the problem correctly [cite: 1532, 1539]
+
+* **3) People have more difficulty working with:**
+    * quantifiers such as "all" or "no"
+    * quantifiers such as "some"
+    * premises that have negatives in them, and quantifiers such as "all" or "no"
+    * premises that have negatives in them, and quantifiers such as "some"
+    * [cite_start]**Correct Answer:** premises that have negatives in them, and quantifiers such as "some" [cite: 1540, 1548]
+
+* **4) When it is improbable (but not impossible) for an argument's premises to be true and its conclusions false, the argument has:**
+    * deductive validity
+    * deductive strength
+    * inductive validity
+    * inductive strength
+    * [cite_start]**Correct Answer:** inductive strength [cite: 1549, 1560]
+
+* **5) When people interpret premises:**
+    * they often make unwarranted assumptions
+    * they often fail to consider all possible interpretations of a premise
+    * they perform very well if given enough practice
+    * they often make unwarranted assumptions and fail to consider all possible interpretations of a premise
+    * [cite_start]**Correct Answer:** they often make unwarranted assumptions and fail to consider all possible interpretations of a premise [cite: 1561, 1568]
+
+* **6) Deductive reasoning involves which of the following?**
+    * going from general to specific statements
+    * conclusions that add new information to what is given
+    * going from specific to general statements
+    * going from specific to specific statements
+    * [cite_start]**Correct Answer:** going from general to specific statements [cite: 1569, 1577]
+
+* **7) The tendency to seek out information that supports our current beliefs is called:**
+    * a believability effect
+    * a content effect
+    * a confirmation bias
+    * syllogistic reasoning
+    * [cite_start]**Correct Answer:** a confirmation bias [cite: 1578, 1584]
+
+* **8) "If a person has five letters in his/her name, then she is a Glirple." Fred now reasons that anyone who is a Glirple must have five letters in his/her name. Fred has:**
+    * made a correct inference according to modus ponens
+    * made a correct inference according to modus tollens
+    * committed the fallacy of denying the antecedent
+    * committed the fallacy of affirming the consequent
+    * [cite_start]**Correct Answer:** committed the fallacy of affirming the consequent [cite: 1585, 1594]
+
+* **9) Which type of reasoning results in conclusions that contain new information?**
+    * inductive reasoning
+    * deductive reasoning
+    * invalid reasoning
+    * both inductive and deductive reasoning
+    * [cite_start]**Correct Answer:** inductive reasoning [cite: 1595, 1603]
+
+* **10) Conclusions that agree with one's previous beliefs:**
+    * are often judged as valid even when they are not
+    * are often judged as invalid even when they are not
+    * are more often judged correctly as valid or invalid than conclusions that disagree with one's previous beliefs
+    * lead to biases known as "content effects"
+    * [cite_start]**Correct Answer:** are often judged as valid even when they are not [cite: 1604, 1612]
+
+---
+
+## Assessment 12: Decision Making
+* **1) The mental activities that take place in choosing among alternatives are collectively called:**
+    * problem solving
+    * inductive reasoning
+    * deductive reasoning
+    * decision making
+    * [cite_start]**Correct Answer:** decision making [cite: 1653, 1660]
+
+* **2) Which of the following is NOT one of the five phases of decision making, according to Galotti?**
+    * goal setting
+    * information gathering
+    * planning
+    * random choice
+    * [cite_start]**Correct Answer:** random choice [cite: 1661, 1668]
+
+* **3) The phase of decision making that involves finding a way to organize information is called:**
+    * goal setting
+    * planning
+    * structuring the decision
+    * evaluating
+    * [cite_start]**Correct Answer:** structuring the decision [cite: 1669, 1675]
+
+* **4) Research on framing suggests that we treat losses:**
+    * less seriously than gains of an equivalent amount
+    * more seriously than gains of an equivalent amount
+    * just as seriously as gains of an equivalent amount
+    * as if they were not possible outcomes at all
+    * [cite_start]**Correct Answer:** more seriously than gains of an equivalent amount [cite: 1676, 1693]
+
+* **5) You have just spent 10 minutes trying to figure out the answer to a single problem on your math quiz. In spite of your lack of success, you continue to struggle, neglecting to continue on to other problems because you've already invested so much time and effort in this problem. You have fallen victim to:**
+    * the sunk cost effect
+    * a framing effect
+    * the anchor effect
+    * availability bias
+    * [cite_start]**Correct Answer:** the sunk cost effect [cite: 1694, 1703]
+
+* **6) Normative models of decision making describe:**
+    * how we ought to make decisions in realistic circumstances
+    * ideal performance under ideal circumstances
+    * what people actually do when they make decisions
+    * cognitive illusions
+    * [cite_start]**Correct Answer:** ideal performance under ideal circumstances [cite: 1704, 1712]
+
+* **7) Expected utility theory is usually regarded as:**
+    * descriptive
+    * prescriptive
+    * normative
+    * both descriptive and prescriptive
+    * [cite_start]**Correct Answer:** normative [cite: 1713, 1721]
+
+* **8) ________ is a normative model for integrating different dimensions and goals of a complex decision:**
+    * Expected value
+    * Expected utility
+    * MAUT
+    * Framing
+    * [cite_start]**Correct Answer:** MAUT [cite: 1723, 1734]
+
+* **9) Changing the description of a decision can cause us to change our reference points, leading to illogical preferences. This phenomenon is referred to as:**
+    * hindsight bias
+    * the gambler's fallacy
+    * availability
+    * framing
+    * [cite_start]**Correct Answer:** framing [cite: 1735, 1744]
+
+* **10) According to psychologists, human decision making often falls short of optimality because:**
+    * there is not enough information available to make a rational decision
+    * one cannot be rational under conditions of uncertainty
+    * the information available overwhelms the cognitive processes
+    * rationality assumes a higher degree of intelligence than most people have
+    * [cite_start]**Correct Answer:** the information available overwhelms the cognitive processes [cite: 1745, 1753]

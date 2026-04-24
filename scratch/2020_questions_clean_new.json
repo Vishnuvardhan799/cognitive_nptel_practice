@@ -1,0 +1,1560 @@
+[
+  {
+    "id": "w1q1",
+    "week": 1,
+    "question": "The belief that most of our abilities and tendencies are with us from birth is known as:",
+    "options": [
+      "nativism",
+      "empiricism",
+      "associationism",
+      "introspection"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The belief that most of our abilities and tendencies are innate, i.e., with us from birth, is known as nativism. This perspective emphasizes the role of genetics and biological inheritance in shaping human psychology and behavior."
+  },
+  {
+    "id": "w1q2",
+    "week": 1,
+    "question": "A traditional school within psychology that had as its goal the identification of the simplest possible units of the mind:",
+    "options": [
+      "functionalism",
+      "structuralism",
+      "behaviorism",
+      "componentialism"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w1q3",
+    "week": 1,
+    "question": "The major disadvantage of naturalistic observation is the lack of:",
+    "options": [
+      "experimental control",
+      "ecological validity",
+      "training given to the participants",
+      "both internal and ecological validity"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w1q4",
+    "week": 1,
+    "question": "A traditional school within psychology that emphasized the adaptation of the organism to its environment, and focused on questions such as what role a particular system served for an organism:",
+    "options": [
+      "functionalism",
+      "structuralism",
+      "behaviorism",
+      "connectionism"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w1q5",
+    "week": 1,
+    "question": "All connectionist models share the assumption that:",
+    "options": [
+      "processing occurs serially",
+      "knowledge is stored in various storehouses",
+      "a central processor directs the flow of information",
+      "processing occurs in parallel"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w1q6",
+    "week": 1,
+    "question": "Wilhelm Wundt and his students used a technique known as ________ to study mental states:",
+    "options": [
+      "behaviorism",
+      "intensity measurement",
+      "componentialism",
+      "introspection"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w1q7",
+    "week": 1,
+    "question": "Which of the following is NOT an example of a cognitive process?",
+    "options": [
+      "attention",
+      "perception",
+      "reflex",
+      "recognition"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w1q8",
+    "week": 1,
+    "question": "The school of psychology known as functionalism, which emphasized the purposes of the mind's operations, was founded by:",
+    "options": [
+      "Wilhelm Wundt",
+      "John Watson",
+      "William James",
+      "Edward Titchener"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w1q9",
+    "week": 1,
+    "question": "The belief that psychological phenomena cannot be reduced to simple elements but must be studied in their entirety is central to the school known as:",
+    "options": [
+      "structuralism",
+      "Gestalt psychology",
+      "functionalism",
+      "behaviorism"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w1q10",
+    "week": 1,
+    "question": "The field of ________ developed during World War II to study such practical questions as how to design aircraft that were safer for human beings to operate:",
+    "options": [
+      "psycholinguistics",
+      "human factors engineering",
+      "Gestalt psychology",
+      "neuroscience"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w2q1",
+    "week": 2,
+    "question": "We see the figure below as a set of columns rather than rows because of the Gestalt principle of:",
+    "options": [
+      "proximity",
+      "similarity",
+      "closure",
+      "common fate"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w2q2",
+    "week": 2,
+    "question": "A process of perception, beginning with small bits of information gathered from the environment and put together in various ways to form a percept, would be described as:",
+    "options": [
+      "bottom-up processing",
+      "top-down processing",
+      "theory-driven processing",
+      "template matching"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w2q3",
+    "week": 2,
+    "question": "A friend is walking towards you and as he comes closer his retinal image gets bigger and bigger. You however don't see your friend growing in size. This is an example of:",
+    "options": [
+      "pattern recognition",
+      "bottom-up processing",
+      "size constancy",
+      "figure-ground organization"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w2q4",
+    "week": 2,
+    "question": "We see the figure below as a set of rows rather than columns because of the Gestalt principle of:",
+    "options": [
+      "proximity",
+      "similarity",
+      "closure",
+      "common fate"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w2q5",
+    "week": 2,
+    "question": "Which of the following represents a good example of a proximal stimulus?",
+    "options": [
+      "book on a shelf",
+      "a tree in your yard",
+      "a building on the horizon",
+      "the retinal image formed by a tree"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w2q6",
+    "week": 2,
+    "question": "The meaningful interpretation of a proximal stimulus is called the:",
+    "options": [
+      "percept",
+      "sensation",
+      "distal stimulus",
+      "retinal image"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w2q7",
+    "week": 2,
+    "question": "The segregation of a whole display into objects and background is known as:",
+    "options": [
+      "size constancy",
+      "retinal imagery",
+      "bottom-up processing",
+      "figure-ground organization"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w2q8",
+    "week": 2,
+    "question": "All Gestalt principles follow the law of:",
+    "options": [
+      "closure",
+      "good continuation",
+      "Pr\u00e4gnanz",
+      "common fate"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w2q9",
+    "week": 2,
+    "question": "________ are to visual perception what phonemes are to language, according to Biederman:",
+    "options": [
+      "Receptons",
+      "Retinas",
+      "Distal stimuli",
+      "Geons"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w2q10",
+    "week": 2,
+    "question": "Gibson's theory of direct perception is in direct opposition to the ________ approach to perception:",
+    "options": [
+      "connectionist",
+      "constructivist",
+      "bottom-up",
+      "Gestalt"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w3q1",
+    "week": 3,
+    "question": "The ________ theory of attention states that there is a very limited amount of information that can be attended to at one time; unattended information is blocked out:",
+    "options": [
+      "filter",
+      "attenuation",
+      "schema",
+      "cocktail party"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w3q2",
+    "week": 3,
+    "question": "According to Treisman, people tend to process:",
+    "options": [
+      "only to the level of physical characteristics",
+      "only to the level of linguistic characteristics, separating it into words",
+      "at a semantic level, analyzing for meaning most of the time",
+      "only as much as is necessary to separate the attended from the unattended message"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w3q3",
+    "week": 3,
+    "question": "According to ________ theory, we never actually acquire unattended material at all:",
+    "options": [
+      "schema",
+      "bottleneck",
+      "attenuation",
+      "filter"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w3q4",
+    "week": 3,
+    "question": "Treisman's theory argues that \"unattended\" information is actually:",
+    "options": [
+      "blocked by a mental filter",
+      "attenuated but not entirely blocked",
+      "never acquired in the first place",
+      "processed to the level of meaning, then repressed"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w3q5",
+    "week": 3,
+    "question": "Greater effort or concentration results in better performance on:",
+    "options": [
+      "all tasks",
+      "tasks that require resource-limited processing",
+      "tasks that are data-limited",
+      "tasks that require vigilance"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w3q6",
+    "week": 3,
+    "question": "In Kahneman's model of attention, allocation of mental resources is affected by preferences for certain kinds of tasks over others. These preferences are known as:",
+    "options": [
+      "enduring dispositions",
+      "arousal states",
+      "momentary intentions",
+      "late selection preferences"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w3q7",
+    "week": 3,
+    "question": "When listening to a conversation, your attention is momentarily diverted when you hear your name spoken in a different conversation across the room. This is an example of the:",
+    "options": [
+      "filter effect",
+      "dichotic listening phenomenon",
+      "cocktail party effect",
+      "attenuation effect"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w3q8",
+    "week": 3,
+    "question": "Treisman's feature integration theory argues that:",
+    "options": [
+      "we perceive objects in two distinct stages",
+      "we can only process one piece of information at a time",
+      "we have a flexible capacity for processing information",
+      "controlled processes do not interfere with each other the way automatic processes do"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w3q9",
+    "week": 3,
+    "question": "In a ________ task, a person listens to an audiotape and hears two separate messages presented simultaneously to the left and right ears:",
+    "options": [
+      "filter",
+      "dichotic listening",
+      "bionic listening",
+      "sustained attention"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w3q10",
+    "week": 3,
+    "question": "The word \"cat\" is ________ by the phrase \"The dog chased the...\". That is, the word cat is especially ready to be recognized or attended to:",
+    "options": [
+      "filtered",
+      "attenuated",
+      "primed",
+      "suggested"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w4q1",
+    "week": 4,
+    "question": "The icon is said to be characterized by all of the following EXCEPT:",
+    "options": [
+      "It holds information in a relatively unprocessed form",
+      "It lasts about 20 seconds",
+      "It can be \"erased\" by stimuli that are presented immediately afterward",
+      "It can hold more information than can be reported"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w4q2",
+    "week": 4,
+    "question": "Encoding occurs when:",
+    "options": [
+      "information is presented to our senses",
+      "information is translated into a form that other cognitive processes can use",
+      "information is stored over a period of time",
+      "information is called back from storage"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w4q3",
+    "week": 4,
+    "question": "Information is held in short-term memory for:",
+    "options": [
+      "less than 1 second",
+      "5-10 seconds",
+      "20 to 30 seconds",
+      "up to 1 year"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w4q4",
+    "week": 4,
+    "question": "Information such as the name of the person who sat in front of you in the fifth grade is stored in:",
+    "options": [
+      "sensory memory",
+      "short-term memory",
+      "working memory",
+      "long-term memory"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w4q5",
+    "week": 4,
+    "question": "Information is stored in iconic memory for:",
+    "options": [
+      "less than 1 second",
+      "5-10 seconds",
+      "about 20 seconds",
+      "up to 1 year"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w4q6",
+    "week": 4,
+    "question": "Information in short-term memory is assumed to be coded primarily by:",
+    "options": [
+      "sound",
+      "meaning",
+      "visual appearance",
+      "both sound and meaning"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w4q7",
+    "week": 4,
+    "question": "Retrieval involves:",
+    "options": [
+      "the activation of the senses",
+      "the translation of information into a form that can be stored",
+      "the storage of information over time",
+      "the calling to mind of previously stored information"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w4q8",
+    "week": 4,
+    "question": "When information is first translated into a form that other cognitive processes can use, we say that ________ has occurred:",
+    "options": [
+      "retrieval",
+      "storage",
+      "forgetting",
+      "encoding"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w4q9",
+    "week": 4,
+    "question": "When we cannot retrieve information from memory, we say that ________ has occurred:",
+    "options": [
+      "forgetting",
+      "a memory trace",
+      "sensory decay",
+      "encoding failure"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w4q10",
+    "week": 4,
+    "question": "Words from the beginning of a list are more likely to be recalled than words from the middle of the list. This phenomenon is known as the ________ effect:",
+    "options": [
+      "recency",
+      "primacy",
+      "forgetting",
+      "interference"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w5q1",
+    "week": 5,
+    "question": "Ebbinghaus is associated with which of the following in the study of memory?",
+    "options": [
+      "nonsense syllables",
+      "college students as participants",
+      "memory for folktales",
+      "creation of false memories"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w5q2",
+    "week": 5,
+    "question": "Techniques designed to improve memory, often involving the use of visual imagery, are called:",
+    "options": [
+      "mnemonics",
+      "eidetics",
+      "leanics",
+      "enhancers"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w5q3",
+    "week": 5,
+    "question": "Bower claimed that a person would recall more information if he/she were in the same mood at recall time as at encoding time. This phenomenon is referred to as:",
+    "options": [
+      "mood-dependent memory",
+      "state-dependent memory",
+      "the spacing effect",
+      "the context effect"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w5q4",
+    "week": 5,
+    "question": "The code in long-term memory is based on:",
+    "options": [
+      "sound",
+      "visual imagery",
+      "meaning",
+      "both sound and visual imagery"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w5q5",
+    "week": 5,
+    "question": "Proactive interference refers to the fact that:",
+    "options": [
+      "new material can disrupt the recall of previously learned material",
+      "previously learned material can disrupt the learning of new material",
+      "the passage of time leads to memory decay",
+      "active interference can strengthen a memory trace"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w5q6",
+    "week": 5,
+    "question": "Learning a rhyme that begins \"One is a bun, two is a shoe\" is part of the mnemonic technique called the:",
+    "options": [
+      "method of loci",
+      "technique of interacting images",
+      "keyword method",
+      "pegword method"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w5q7",
+    "week": 5,
+    "question": "Psychologists believe that the capacity of long-term memory is:",
+    "options": [
+      "unlimited",
+      "7\u00b12 items",
+      "18 items",
+      "5000 items"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w5q8",
+    "week": 5,
+    "question": "Retroactive interference occurs when ________ information interferes with ________ information in memory:",
+    "options": [
+      "old, new",
+      "new, old",
+      "vivid, dull",
+      "visual, auditory"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w5q9",
+    "week": 5,
+    "question": "Your memory of your first college lecture would be an example of:",
+    "options": [
+      "semantic memory",
+      "episodic memory",
+      "implicit memory",
+      "working memory"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w5q10",
+    "week": 5,
+    "question": "Your memory for how to ride a bicycle is an example of ________ memory:",
+    "options": [
+      "explicit",
+      "implicit",
+      "declarative",
+      "procedural"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w6q1",
+    "week": 6,
+    "question": "The word superiority effect is related to the idea of:",
+    "options": [
+      "cognitive economy",
+      "schemata",
+      "typicality",
+      "spreading activation"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w6q2",
+    "week": 6,
+    "question": "Which of the following is NOT one of the memory systems postulated by ACT?",
+    "options": [
+      "semantic memory",
+      "declarative memory",
+      "working memory",
+      "procedural memory"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w6q3",
+    "week": 6,
+    "question": "According to Anderson, procedural memory represents information as:",
+    "options": [
+      "words",
+      "pictures",
+      "production rules",
+      "words and pictures"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w6q4",
+    "week": 6,
+    "question": "According to research by Collins and Quillian, the statement \"Siamese cats have blue eyes\" will be verified:",
+    "options": [
+      "slower than \"Siamese cats give birth to live young\"",
+      "faster than \"Siamese cats give birth to live young\"",
+      "in the same amount of time as \"Siamese cats give birth to live young\"",
+      "slower than \"Siamese cats have tails\""
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w6q5",
+    "week": 6,
+    "question": "According to ACT models, ________ memory represents information in if-then production rules:",
+    "options": [
+      "working",
+      "procedural",
+      "episodic",
+      "declarative"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w6q6",
+    "week": 6,
+    "question": "A ________ is a mental representation of some object, event, or pattern:",
+    "options": [
+      "category",
+      "script",
+      "concept",
+      "memory"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w6q7",
+    "week": 6,
+    "question": "According to the notion of cognitive economy, a characteristic like \"has wings\" would be stored along with which of the following semantic memory nodes:",
+    "options": [
+      "bird",
+      "ostrich",
+      "robin",
+      "humming bird"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w6q8",
+    "week": 6,
+    "question": "Studies of semantic memory have shown that in a lexical decision task, people are faster at responding to the stimulus \"bread\" if it is paired with a stimulus such as:",
+    "options": [
+      "\"rancid\"",
+      "\"dog\"",
+      "\"island\"",
+      "\"butter\""
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w6q9",
+    "week": 6,
+    "question": "Which of the following would be a part of your procedural memory system?",
+    "options": [
+      "knowing that the Baseball Hall of Fame is in Cooperstown, New York",
+      "knowing the lifetime batting average of Ted Williams",
+      "knowing how to swing a baseball bat",
+      "being able to remember the ball and strike count of the current pitch"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w6q10",
+    "week": 6,
+    "question": "A schema for a routine event, such as going to the dentist, is called a:",
+    "options": [
+      "concept",
+      "category",
+      "exemplar",
+      "script"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w7q1",
+    "week": 7,
+    "question": "\"Characteristic features\" and \"family resemblance\" are important aspects of the ________ view of concepts:",
+    "options": [
+      "classical",
+      "prototype",
+      "exemplar",
+      "schema"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w7q2",
+    "week": 7,
+    "question": "According to the ________ view of concepts, people categorize new instances by comparing them to representations of previously stored instances:",
+    "options": [
+      "classical",
+      "prototype",
+      "exemplar",
+      "schema"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w7q3",
+    "week": 7,
+    "question": "Implicit learning is also known as:",
+    "options": [
+      "analytic concept formation",
+      "nonanalytic concept formation",
+      "knowledge-based concept formation",
+      "nominal-kind learning"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w7q4",
+    "week": 7,
+    "question": "A schema for a routine event, such as going to the dentist, is called a:",
+    "options": [
+      "concept",
+      "category",
+      "exemplar",
+      "script"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w7q5",
+    "week": 7,
+    "question": "The ________ view of concepts argues that a person uses his/her theories about the way the world works to justify the classification of instances in the same category:",
+    "options": [
+      "classical",
+      "prototype",
+      "exemplar",
+      "knowledge-based"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w7q6",
+    "week": 7,
+    "question": "If \"soda\" is a basic-level category, then ________ would be a subordinate level:",
+    "options": [
+      "soft drink",
+      "beverage",
+      "drink",
+      "Coca-Cola"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w7q7",
+    "week": 7,
+    "question": "Categories are mental representations of concepts:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w7q8",
+    "week": 7,
+    "question": "A ________ can be defined as a class of similar things that share either an essential core, or some similarity in perceptual, biological, or functional properties:",
+    "options": [
+      "category",
+      "concept",
+      "script",
+      "schema"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w7q9",
+    "week": 7,
+    "question": "Which of the following is NOT TRUE of the classical view of concepts?",
+    "options": [
+      "It proposes that concepts are mentally represented by lists of features",
+      "It assumes that membership in a category is clear-cut",
+      "It accurately predicts the typicality effect",
+      "\"Necessary\" and \"sufficient\" features play an important role in the theory"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w7q10",
+    "week": 7,
+    "question": "Which of the following is a good example of a superordinate level of categorization?",
+    "options": [
+      "apple",
+      "banana",
+      "Fuji apple",
+      "Fruit"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w8q1",
+    "week": 8,
+    "question": "Paivio's ________ hypothesis argues that long-term memory contains two separate systems that represent information in verbal and visual forms, respectively:",
+    "options": [
+      "picture-word",
+      "dual code",
+      "visuo-verbal",
+      "relational-organizational"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w8q2",
+    "week": 8,
+    "question": "The relational-organizational hypothesis is supported by:",
+    "options": [
+      "the effectiveness of the method of loci",
+      "the fact that concrete words are recalled better than abstract words",
+      "the fact that noninteractive images do not facilitate recall whereas interactive images do facilitate recall",
+      "the effectiveness of the pegword method"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w8q3",
+    "week": 8,
+    "question": "Forming a visual image and then moving from one location on the image to another is known as:",
+    "options": [
+      "symbolic distance",
+      "imaginal scanning",
+      "mnemonic movement",
+      "heuristic distortion"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w8q4",
+    "week": 8,
+    "question": "Which is NOT one of Finke's principles of visual imagery?",
+    "options": [
+      "perceptual equivalence",
+      "spatial equivalence",
+      "structural equivalence",
+      "temporal equivalence"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w8q5",
+    "week": 8,
+    "question": "A propositional representation is thought to be ________ in nature:",
+    "options": [
+      "verbal",
+      "visual",
+      "both verbal and visual",
+      "neither verbal nor visual"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w8q6",
+    "week": 8,
+    "question": "Which of the following methods would most help you to remember the word pair \"elephant-cigar\"?",
+    "options": [
+      "repeating the word \"cigar\" over and over while visualizing an elephant",
+      "repeating both words over and over to yourself",
+      "visualizing an elephant and a cigar, not touching each other",
+      "visualizing an elephant smoking a cigar"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w8q7",
+    "week": 8,
+    "question": "The dual coding hypothesis states that recall will be best when items are coded:",
+    "options": [
+      "visually",
+      "verbally",
+      "both visually and verbally",
+      "with two distinct visual images"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w8q8",
+    "week": 8,
+    "question": "Images can prime the visual pathway, making it easier to detect a faint stimulus. This is an example of:",
+    "options": [
+      "perceptual equivalence",
+      "spatial equivalence",
+      "structural equivalence",
+      "transformational equivalence"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w8q9",
+    "week": 8,
+    "question": "When the experimental task itself \"cues\" the subject about how to behave, the task is said to have:",
+    "options": [
+      "internal validity",
+      "demand characteristics",
+      "transformational equivalence",
+      "implicit encoding"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w8q10",
+    "week": 8,
+    "question": "Participants doing mental imagery tasks tend to show brain activity in the:",
+    "options": [
+      "temporal lobe",
+      "parietal lobe",
+      "frontal lobe",
+      "occipital lobe"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w9q1",
+    "week": 9,
+    "question": "The study of the ways in which sounds can be combined in any given language is called:",
+    "options": [
+      "phonology",
+      "morphology",
+      "syntax",
+      "grammar"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w9q2",
+    "week": 9,
+    "question": "The branch of linguistics devoted to the study of meaning:",
+    "options": [
+      "phonetics",
+      "semantics",
+      "morphology",
+      "pragmatics"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w9q3",
+    "week": 9,
+    "question": "The sentence \"A turkey sandwich can read a book\" is an example of:",
+    "options": [
+      "a self-contradiction",
+      "ambiguity",
+      "an anomaly",
+      "synonymy"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w9q4",
+    "week": 9,
+    "question": "Bird songs and bee dances are not considered to be languages because:",
+    "options": [
+      "they do not use words",
+      "they do not have a formal grammar",
+      "they cannot express infinite combinations of ideas",
+      "they do not have a permanent (written) form"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w9q5",
+    "week": 9,
+    "question": "The underlying knowledge that allows people to produce and comprehend their language is called:",
+    "options": [
+      "linguistic performance",
+      "linguistic competence",
+      "linguistic production",
+      "grammatical behavior"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w9q6",
+    "week": 9,
+    "question": "I saw a bat in the corner. Does \"bat\" refer to a baseball bat, or a flying mammal? This confusion illustrates a problem of:",
+    "options": [
+      "ambiguity",
+      "anomaly",
+      "synonymy",
+      "self-contradiction"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w9q7",
+    "week": 9,
+    "question": "Infinite combinations of ideas can be expressed in language. In other words, language is:",
+    "options": [
+      "regular",
+      "interpersonal",
+      "productive",
+      "referential"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w9q8",
+    "week": 9,
+    "question": "The smallest unit of language that carries a consistent meaning is called a:",
+    "options": [
+      "feature",
+      "phoneme",
+      "phonetic",
+      "morpheme"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w9q9",
+    "week": 9,
+    "question": "Did she say \"many\" or \"men knee\"? This type of ambiguity is referred to as:",
+    "options": [
+      "phonetic",
+      "lexical",
+      "syntactic",
+      "semantic"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w9q10",
+    "week": 9,
+    "question": "\"George is not tall enough to ride the roller coaster\" \"George is too short to ride the roller coaster.\" These sentences are related through:",
+    "options": [
+      "ambiguity",
+      "entailment",
+      "synonymy",
+      "anomaly"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w10q1",
+    "week": 10,
+    "question": "A ________ problem has a clear goal, a small set of starting information, and rules about how to attain the goal:",
+    "options": [
+      "classic",
+      "laboratory",
+      "well-defined",
+      "introspective"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w10q2",
+    "week": 10,
+    "question": "The General Problem Solver (GPS) is a computer program that solves problems in crypt arithmetic and logic using:",
+    "options": [
+      "means-end analysis",
+      "generate-and-test",
+      "reasoning by analogy",
+      "introspection"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w10q3",
+    "week": 10,
+    "question": "A tendency to adopt a certain framework, strategy, or procedure, which can become an obstacle to successful problem solving, is called:",
+    "options": [
+      "mental set",
+      "functional fixedness",
+      "well-defined thinking",
+      "ill-defined thinking"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w10q4",
+    "week": 10,
+    "question": "Which of the following is an example of an ill-defined problem?",
+    "options": [
+      "constructing a proof in geometry",
+      "solving an algebra problem",
+      "solving the Tower of Hanoi problem",
+      "putting together your schedule of classes for next semester"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w10q5",
+    "week": 10,
+    "question": "When one recalls the solution to an old problem and uses it to solve a new, similarly structured problem, one has reasoned by:",
+    "options": [
+      "introspection",
+      "analysis",
+      "analogy",
+      "backtracking"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w10q6",
+    "week": 10,
+    "question": "Experts in solving physics problems:",
+    "options": [
+      "tend to represent information more superficially than novices do",
+      "tend to organize problems in terms of physics principles",
+      "tend to organize problems in terms of objects mentioned in the problem",
+      "spend less time analyzing a problem than novices do"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w10q7",
+    "week": 10,
+    "question": "________ is defined as \"going beyond the information given\":",
+    "options": [
+      "Problem-solving",
+      "Reasoning",
+      "Decision making",
+      "Thinking"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w10q8",
+    "week": 10,
+    "question": "________ thinking begins with a clear starting point and has a specific goal:",
+    "options": [
+      "Focused",
+      "Unfocused",
+      "Intelligent",
+      "Puzzled"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w10q9",
+    "week": 10,
+    "question": "________ is a very important technique for solving the Towers of Hanoi problem:",
+    "options": [
+      "Means-end analysis",
+      "Generate-and-test",
+      "Working backward",
+      "Reasoning by analogy"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w10q10",
+    "week": 10,
+    "question": "The string problem often generates ________ when participants do not think to use the screwdriver as a pendulum:",
+    "options": [
+      "functional fixedness",
+      "mental set",
+      "incomplete representations",
+      "reasoning by analogy"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w11q1",
+    "week": 11,
+    "question": "If performed correctly, deductive reasoning can be said to have ________. This means that it is impossible for the premises to be true and the conclusion to be false:",
+    "options": [
+      "inductive strength",
+      "deductive strength",
+      "inductive validity",
+      "deductive validity"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w11q2",
+    "week": 11,
+    "question": "When Wason's four-card task is replaced with an everyday problem about checking the identification of people who are drinking Coke and beer:",
+    "options": [
+      "people still neglect modus tollens in their responses",
+      "people turn over all four cards instead of the two that are necessary and sufficient",
+      "people turn over only one card instead of the two that are necessary and sufficient",
+      "about 75% of participants solve the problem correctly"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w11q3",
+    "week": 11,
+    "question": "People have more difficulty working with:",
+    "options": [
+      "quantifiers such as \"all\" or \"no\"",
+      "quantifiers such as \"some\"",
+      "premises that have negatives in them, and quantifiers such as \"all\" or \"no\"",
+      "premises that have negatives in them, and quantifiers such as \"some\""
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w11q4",
+    "week": 11,
+    "question": "When it is improbable (but not impossible) for an argument's premises to be true and its conclusions false, the argument has:",
+    "options": [
+      "deductive validity",
+      "deductive strength",
+      "inductive validity",
+      "inductive strength"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w11q5",
+    "week": 11,
+    "question": "When people interpret premises:",
+    "options": [
+      "they often make unwarranted assumptions",
+      "they often fail to consider all possible interpretations of a premise",
+      "they perform very well if given enough practice",
+      "they often make unwarranted assumptions and fail to consider all possible interpretations of a premise"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w11q6",
+    "week": 11,
+    "question": "Deductive reasoning involves which of the following?",
+    "options": [
+      "going from general to specific statements",
+      "conclusions that add new information to what is given",
+      "going from specific to general statements",
+      "going from specific to specific statements"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w11q7",
+    "week": 11,
+    "question": "The tendency to seek out information that supports our current beliefs is called:",
+    "options": [
+      "a believability effect",
+      "a content effect",
+      "a confirmation bias",
+      "syllogistic reasoning"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w11q8",
+    "week": 11,
+    "question": "\"If a person has five letters in his/her name, then she is a Glirple.\" Fred now reasons that anyone who is a Glirple must have five letters in his/her name. Fred has:",
+    "options": [
+      "made a correct inference according to modus ponens",
+      "made a correct inference according to modus tollens",
+      "committed the fallacy of denying the antecedent",
+      "committed the fallacy of affirming the consequent"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w11q9",
+    "week": 11,
+    "question": "Which type of reasoning results in conclusions that contain new information?",
+    "options": [
+      "inductive reasoning",
+      "deductive reasoning",
+      "invalid reasoning",
+      "both inductive and deductive reasoning"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w11q10",
+    "week": 11,
+    "question": "Conclusions that agree with one's previous beliefs:",
+    "options": [
+      "are often judged as valid even when they are not",
+      "are often judged as invalid even when they are not",
+      "are more often judged correctly as valid or invalid than conclusions that disagree with one's previous beliefs",
+      "lead to biases known as \"content effects\""
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w12q1",
+    "week": 12,
+    "question": "The mental activities that take place in choosing among alternatives are collectively called:",
+    "options": [
+      "problem solving",
+      "inductive reasoning",
+      "deductive reasoning",
+      "decision making"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w12q2",
+    "week": 12,
+    "question": "Which of the following is NOT one of the five phases of decision making, according to Galotti?",
+    "options": [
+      "goal setting",
+      "information gathering",
+      "planning",
+      "random choice"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w12q3",
+    "week": 12,
+    "question": "The phase of decision making that involves finding a way to organize information is called:",
+    "options": [
+      "goal setting",
+      "planning",
+      "structuring the decision",
+      "evaluating"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w12q4",
+    "week": 12,
+    "question": "Research on framing suggests that we treat losses:",
+    "options": [
+      "less seriously than gains of an equivalent amount",
+      "more seriously than gains of an equivalent amount",
+      "just as seriously as gains of an equivalent amount",
+      "as if they were not possible outcomes at all"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w12q5",
+    "week": 12,
+    "question": "You have just spent 10 minutes trying to figure out the answer to a single problem on your math quiz. In spite of your lack of success, you continue to struggle, neglecting to continue on to other problems because you've already invested so much time and effort in this problem. You have fallen victim to:",
+    "options": [
+      "the sunk cost effect",
+      "a framing effect",
+      "the anchor effect",
+      "availability bias"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "w12q6",
+    "week": 12,
+    "question": "Normative models of decision making describe:",
+    "options": [
+      "how we ought to make decisions in realistic circumstances",
+      "ideal performance under ideal circumstances",
+      "what people actually do when they make decisions",
+      "cognitive illusions"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "w12q7",
+    "week": 12,
+    "question": "Expected utility theory is usually regarded as:",
+    "options": [
+      "descriptive",
+      "prescriptive",
+      "normative",
+      "both descriptive and prescriptive"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w12q8",
+    "week": 12,
+    "question": "________ is a normative model for integrating different dimensions and goals of a complex decision:",
+    "options": [
+      "Expected value",
+      "Expected utility",
+      "MAUT",
+      "Framing"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "w12q9",
+    "week": 12,
+    "question": "Changing the description of a decision can cause us to change our reference points, leading to illogical preferences. This phenomenon is referred to as:",
+    "options": [
+      "hindsight bias",
+      "the gambler's fallacy",
+      "availability",
+      "framing"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "w12q10",
+    "week": 12,
+    "question": "According to psychologists, human decision making often falls short of optimality because:",
+    "options": [
+      "there is not enough information available to make a rational decision",
+      "one cannot be rational under conditions of uncertainty",
+      "the information available overwhelms the cognitive processes",
+      "rationality assumes a higher degree of intelligence than most people have"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  }
+]
